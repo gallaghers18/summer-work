@@ -1,0 +1,890 @@
+89,Mikkel Boedker\boedkmi01,dk,LW,28,6-0,210,L/-,9,December 16 1989,3 G 4 A 7 P,$4800000,2008 PHX 1st (8)
+61,Justin Braun\braunju01,us,D,30,6-2,205,R/-,7,February 10 1987,1 G 14 A 15 P,$3800000,2007 SJS 7th (201)
+88,Brent Burns\burnsbr01,ca,D,32,6-5,230,R/-,13,March 9 1985,6 G 16 A 22 P,$10000000,2003 MIN 1st (20)
+39,Logan Couture\coutulo01,ca,C,28,6-1,205,L/-,8,March 28 1989,15 G 11 A 26 P,$6000000,2007 SJS 1st (9)
+30,Aaron Dell\dellaa01,ca,G,28,6-0,200,-/L,1,May 4 1989,6-3-1 1.75 GAA,$675000,
+74,Dylan Demelo\demeldy01,ca,D,24,6-1,195,R/-,2,May 1 1993,0 G 3 A 3 P,$700000,2011 SJS 6th (179)
+4,Brenden Dillon\dillobr01,ca,D,27,6-4,225,L/-,6,November 13 1990,0 G 5 A 5 P,$3400000,
+27,Joonas Donskoi\donskjo01,fi,RW,25,6-0,190,R/-,2,April 13 1992,8 G 6 A 14 P,$1900000,2010 FLA 4th (99)
+23,Barclay Goodrow\goodrba01,ca,RW,24,6-2,210,L/-,3,February 26 1993,2 G 2 A 4 P,$650000,
+36,Jannik Hansen\hanseja01,dk,RW,31,6-1,198,R/-,10,March 15 1986,0 G 3 A 3 P,$2400000,2004 VAN 9th (287)
+72,Tim Heed\heedti01,se,D,27,6-0,185,R/-,1,January 27 1991,3 G 7 A 10 P,$650000,2010 ANA 5th (132)
+48,Tomas Hertl\hertlto01,cz,C,24,6-2,220,L/-,4,November 12 1993,8 G 11 A 19 P,$3200000,2012 SJS 1st (17)
+31,Martin Jones\jonesma02,ca,G,28,6-4,195,-/L,4,January 10 1990,11-8-3 2.62 GAA,$3000000,
+68,Melker Karlsson\karlsme01,se,C,27,6-0,180,R/-,3,July 18 1990,5 G 5 A 10 P,$2000000,
+62,Kevin Labanc\labanke01,us,RW,22,5-11,185,R/-,1,December 12 1995,3 G 10 A 13 P,$742500,2014 SJS 6th (171)
+7,Paul Martin\martipa01,us,D,36,6-1,200,L/-,13,March 5 1981,0 G 0 A 0 P,$4400000,2000 NJD 2nd (62)
+28,Timo Meier\meierti01,ch,RW,21,6-0,215,L/-,1,October 8 1996,4 G 4 A 8 P,$925000,2015 SJS 1st (9)
+65,Daniel O'Regan\oregada01,de,C,24,5-10,185,R/-,1,January 30 1994,0 G 4 A 4 P,$925000,2012 SJS 5th (138)
+8,Joe Pavelski (C)\paveljo01,us,C,33,5-11,195,R/-,11,July 11 1984,7 G 12 A 19 P,$6000000,2003 SJS 7th (205)
+47,Joakim Ryan\ryanjo02,us,D,24,5-11,185,L/-,R,June 17 1993,0 G 3 A 3 P,$250000,2012 SJS 7th (198)
+20,Marcus Sorensen\sorenma01,se,LW,25,5-11,175,L/-,1,April 7 1992,2 G 0 A 2 P,N/A,2010 OTT 4th (106)
+19,Joe Thornton\thornjo01,ca,C,38,6-4,220,L/-,19,July 2 1979,5 G 17 A 22 P,$8000000,1997 BOS 1st (1)
+50,Chris Tierney\tiernch01,ca,C,23,6-1,195,L/-,3,July 1 1994,8 G 5 A 13 P,$735000,2012 SJS 2nd (55)
+44,Marc-Edouard Vlasic\vlasima01,ca,D,30,6-1,205,L/-,11,March 30 1987,3 G 6 A 9 P,$4250000,2005 SJS 2nd (35)
+42,Joel Ward\wardjo02,ca,RW,37,6-1,225,R/-,10,December 2 1980,4 G 4 A 8 P,$3275000,
+
+89,Mikkel Boedker\boedkmi01,dk,LW,27,6-0,210,L/-,8,December 16 1989,10 G 16 A 26 P
+61,Justin Braun\braunju01,us,D,29,6-2,205,R/-,6,February 10 1987,4 G 9 A 13 P
+88,Brent Burns\burnsbr01,ca,D,31,6-5,230,R/-,12,March 9 1985,29 G 47 A 76 P
+40,Ryan Carpenter\carpery01,us,C,26,6-0,200,R/-,1,January 18 1991,2 G 2 A 4 P
+39,Logan Couture\coutulo01,ca,C,27,6-1,205,L/-,7,March 28 1989,25 G 27 A 52 P
+30,Aaron Dell\dellaa01,ca,G,27,6-0,200,-/-,R,May 4 1989,11-6-1 2.00 GAA
+74,Dylan DeMelo\demeldy01,ca,D,23,6-1,195,R/-,1,May 1 1993,1 G 7 A 8 P
+4,Brenden Dillon\dillobr01,ca,D,26,6-4,225,L/-,5,November 13 1990,2 G 8 A 10 P
+27,Joonas Donskoi\donskjo01,fi,RW,24,6-0,190,R/-,1,April 13 1992,6 G 11 A 17 P
+82,Nikolay Goldobin\goldoni01,ru,LW,21,5-11,185,L/-,1,October 7 1995,0 G 0 A 0 P
+23,Barclay Goodrow\goodrba01,ca,RW,23,6-2,210,L/-,2,February 26 1993,0 G 1 A 1 P
+38,Micheal Haley\haleymi01,ca,C,30,5-11,205,L/-,6,March 30 1986,2 G 10 A 12 P
+36,Jannik Hansen\hanseja01,dk,RW,30,6-1,198,R/-,9,March 15 1986,2 G 5 A 7 P
+72,Tim Heed\heedti01,se,D,26,6-0,185,R/-,R,January 27 1991,0 G 0 A 0 P
+48,Tomas Hertl\hertlto01,cz,C,23,6-2,220,L/-,3,November 12 1993,10 G 12 A 22 P
+31,Martin Jones\jonesma02,ca,G,27,6-4,195,-/-,3,January 10 1990,35-23-6 2.40 GAA
+68,Melker Karlsson\karlsme01,se,C,26,6-0,180,R/-,2,July 18 1990,11 G 11 A 22 P
+62,Kevin Labanc\labanke01,us,RW,21,5-11,185,R/-,R,December 12 1995,8 G 12 A 20 P
+12,Patrick Marleau\marlepa01,ca,LW,37,6-2,215,L/-,18,September 15 1979,27 G 19 A 46 P
+7,Paul Martin\martipa01,us,D,35,6-1,200,L/-,12,March 5 1981,4 G 22 A 26 P
+28,Timo Meier\meierti01,ch,RW,20,6-0,215,L/-,R,October 8 1996,3 G 3 A 6 P
+41,Mirco Mueller\muellmi01,ch,D,21,6-3,210,L/-,2,March 21 1995,1 G 1 A 2 P
+83,Matthew Nieto\nietoma01,us,LW,24,5-11,190,L/-,3,November 5 1992,0 G 2 A 2 P
+65,Daniel O'Regan\oregada01,de,C,23,5-10,185,R/-,R,January 30 1994,1 G 0 A 1 P
+8,Joe Pavelski (C)\paveljo01,us,C,32,5-11,195,R/-,10,July 11 1984,29 G 39 A 68 P
+5,David Schlemko\schleda01,ca,D,29,6-1,189,L/-,8,May 7 1987,2 G 16 A 18 P
+20,Marcus Sorensen\sorenma01,se,RW,24,5-11,175,L/-,R,April 7 1992,1 G 3 A 4 P
+19,Joe Thornton\thornjo01,ca,C,37,6-4,220,L/-,18,July 2 1979,7 G 43 A 50 P
+50,Chris Tierney\tiernch01,ca,C,22,6-1,195,L/-,2,July 1 1994,11 G 12 A 23 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,29,6-1,205,L/-,10,March 30 1987,6 G 22 A 28 P
+42,Joel Ward\wardjo02,ca,RW,36,6-1,225,R/-,9,December 2 1980,10 G 19 A 29 P
+57,Tommy Wingels\wingeto01,us,C,28,6-0,200,R/-,6,April 12 1988,5 G 3 A 8 P
+
+61,Justin Braun\braunju01,us,D,28,6-2,205,R/-,5,February 10 1987,4 G 19 A 23 P
+18,Mike Brown\brownmi02,us,RW,30,5-11,205,R/-,8,June 24 1985,1 G 2 A 3 P
+88,Brent Burns\burnsbr01,ca,D,30,6-5,230,R/-,11,March 9 1985,27 G 48 A 75 P
+40,Ryan Carpenter\carpery01,us,C,25,6-0,200,R/-,R,January 18 1991,0 G 0 A 0 P
+39,Logan Couture\coutulo01,ca,C,26,6-1,205,L/-,6,March 28 1989,15 G 21 A 36 P
+74,Dylan DeMelo\demeldy01,ca,D,22,6-1,195,R/-,R,May 1 1993,2 G 2 A 4 P
+4,Brenden Dillon\dillobr01,ca,D,25,6-4,225,L/-,4,November 13 1990,2 G 9 A 11 P
+27,Joonas Donskoi\donskjo01,fi,RW,23,6-0,190,R/-,R,April 13 1992,11 G 25 A 36 P
+82,Nikolay Goldobin\goldoni01,ru,LW,20,5-11,185,L/-,R,October 7 1995,1 G 1 A 2 P
+89,Barclay Goodrow\goodrba01,ca,RW,22,6-2,210,L/-,1,February 26 1993,0 G 3 A 3 P
+38,Micheal Haley\haleymi01,ca,C,29,5-11,205,L/-,5,March 30 1986,1 G 0 A 1 P
+48,Tomas Hertl\hertlto01,cz,C,22,6-2,220,L/-,2,November 12 1993,21 G 25 A 46 P
+31,Martin Jones\jonesma02,ca,G,26,6-4,195,-/-,2,January 10 1990,37-23-4 2.27 GAA
+68,Melker Karlsson\karlsme01,se,C,25,6-0,180,R/-,1,July 18 1990,10 G 9 A 19 P
+11,Bryan Lerg\lergbr01,us,C,30,5-10,175,L/-,1,January 20 1986,0 G 0 A 0 P
+12,Patrick Marleau\marlepa01,ca,LW,36,6-2,215,L/-,17,September 15 1979,25 G 23 A 48 P
+7,Paul Martin\martipa01,us,D,34,6-1,200,L/-,11,March 5 1981,3 G 17 A 20 P
+17,John McCarthy\mccarjo01,us,LW,29,6-1,195,L/-,4,August 9 1986,0 G 0 A 0 P
+41,Mirco Mueller\muellmi01,ch,D,20,6-3,210,L/-,1,March 21 1995,0 G 0 A 0 P
+83,Matthew Nieto\nietoma01,us,LW,23,5-11,190,L/-,2,November 5 1992,8 G 9 A 17 P
+8,Joe Pavelski (C)\paveljo01,us,C,31,5-11,195,R/-,9,July 11 1984,38 G 40 A 78 P
+46,Roman Polak\polakro01,cs,D,29,6-2,235,R/-,9,April 28 1986,0 G 3 A 3 P
+34,James Reimer\reimeja01,ca,G,27,6-2,217,-/L,5,March 15 1988,6-2-0 1.62 GAA
+21,Ben Smith\smithbe01,us,RW,27,5-11,203,R/-,5,July 11 1988,0 G 0 A 0 P
+16,Nick Spaling\spalini01,ca,C,27,6-1,198,L/-,6,September 19 1988,2 G 4 A 6 P
+32,Alex Stalock\staloal01,us,G,28,6-0,191,L/L,4,July 28 1987,3-5-2 2.94 GAA
+80,Matt Tennyson\tennyma01,us,D,25,6-2,205,R/-,2,April 23 1990,1 G 3 A 4 P
+19,Joe Thornton\thornjo01,ca,C,36,6-4,220,L/-,17,July 2 1979,19 G 63 A 82 P
+50,Chris Tierney\tiernch01,ca,C,21,6-1,195,L/-,1,July 1 1994,7 G 13 A 20 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,28,6-1,205,L/-,9,March 30 1987,8 G 31 A 39 P
+42,Joel Ward\wardjo02,ca,RW,35,6-1,225,R/-,8,December 2 1980,21 G 22 A 43 P
+57,Tommy Wingels\wingeto01,us,C,27,6-0,200,R/-,5,April 12 1988,7 G 11 A 18 P
+9,Dainius Zubrus\zubruda01,su,C,37,6-5,225,L/-,18,June 16 1978,3 G 4 A 7 P
+
+61,Justin Braun\braunju01,us,D,27,6-2,205,R/-,4,February 10 1987,1 G 22 A 23 P
+18,Mike Brown\brownmi02,us,RW,29,5-11,205,R/-,7,June 24 1985,0 G 0 A 0 P
+37,Adam Burish\burisad01,us,RW,32,6-1,195,R/-,8,January 6 1983,1 G 2 A 3 P
+88,Brent Burns\burnsbr01,ca,D,29,6-5,230,R/-,10,March 9 1985,17 G 43 A 60 P
+39,Logan Couture\coutulo01,ca,C,25,6-1,205,L/-,5,March 28 1989,27 G 40 A 67 P
+5,Jason Demers\demerja01,ca,D,26,6-1,195,R/-,5,June 9 1988,0 G 3 A 3 P
+10,Andrew Desjardins\desjaan01,ca,C,28,6-1,195,R/-,4,July 27 1986,5 G 3 A 8 P
+4,Brenden Dillon\dillobr01,ca,D,24,6-4,225,L/-,3,November 13 1990,2 G 7 A 9 P
+43,Taylor Fedun\fedunta01,ca,D,26,6-1,201,R/-,1,June 4 1988,0 G 4 A 4 P
+89,Barclay Goodrow\goodrba01,ca,RW,21,6-2,210,L/-,R,February 26 1993,4 G 8 A 12 P
+34,Troy Grosenick\grosetr01,us,G,25,6-1,185,-/-,R,August 27 1989,1-1-0 1.53 GAA
+38,Micheal Haley\haleymi01,ca,C,28,5-11,205,L/-,4,March 30 1986,0 G 0 A 0 P
+75,Freddie Hamilton\hamilfr01,ca,C,23,6-1,195,R/-,1,January 1 1992,0 G 0 A 0 P
+27,Scott Hannan\hannasc01,ca,D,36,6-1,215,L/-,15,January 23 1979,2 G 5 A 7 P
+76,Eriah Hayes\hayeser01,us,RW,26,6-4,210,-/-,1,July 7 1988,0 G 0 A 0 P
+48,Tomas Hertl\hertlto01,cz,C,21,6-2,220,L/-,1,November 12 1993,13 G 18 A 31 P
+52,Matt Irwin\irwinma01,ca,D,27,6-1,207,L/-,2,November 29 1987,8 G 11 A 19 P
+68,Melker Karlsson\karlsme01,se,C,24,6-0,180,R/-,R,July 18 1990,13 G 11 A 24 P
+81,Tyler Kennedy\kennety01,ca,C,28,5-11,185,R/-,7,July 15 1986,4 G 5 A 9 P
+42,Bryan Lerg\lergbr01,us,C,29,5-10,175,L/-,R,January 20 1986,1 G 0 A 1 P
+12,Patrick Marleau\marlepa01,ca,LW,35,6-2,215,L/-,16,September 15 1979,19 G 38 A 57 P
+25,Tye McGinn\mcginty01,ca,LW,24,6-3,207,L/-,2,July 29 1990,1 G 4 A 5 P
+41,Mirco Mueller\muellmi01,ch,D,19,6-3,210,L/-,R,March 21 1995,1 G 3 A 4 P
+31,Antti Niemi\niemian02,fi,G,31,6-2,215,-/L,6,August 29 1983,31-23-7 2.59 GAA
+83,Matthew Nieto\nietoma01,us,LW,22,5-11,190,L/-,1,November 5 1992,10 G 17 A 27 P
+8,Joe Pavelski\paveljo01,us,C,30,5-11,195,R/-,8,July 11 1984,37 G 33 A 70 P
+20,John Scott\scottjo01,ca,LW,32,6-8,260,L/-,6,September 26 1982,3 G 1 A 4 P
+15,James Sheppard\sheppja01,ca,C,26,6-1,215,L/-,5,April 25 1988,5 G 11 A 16 P
+21,Ben Smith\smithbe01,us,RW,26,5-11,203,R/-,4,July 11 1988,2 G 3 A 5 P
+32,Alex Stalock\staloal01,us,G,27,6-0,191,L/L,3,July 28 1987,8-9-2 2.62 GAA
+3,Karl Stollery\stollka01,ca,D,27,5-11,180,L/-,1,November 21 1987,0 G 0 A 0 P
+71,Daniil Tarasov\tarasda01,su,RW,23,5-10,185,-/-,R,June 20 1991,0 G 1 A 1 P
+80,Matt Tennyson\tennyma01,us,D,24,6-2,205,R/-,1,April 23 1990,2 G 6 A 8 P
+19,Joe Thornton\thornjo01,ca,C,35,6-4,220,L/-,16,July 2 1979,16 G 49 A 65 P
+50,Chris Tierney\tiernch01,ca,C,20,6-1,195,L/-,R,July 1 1994,6 G 15 A 21 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,27,6-1,205,L/-,8,March 30 1987,9 G 14 A 23 P
+57,Tommy Wingels\wingeto01,us,C,26,6-0,200,R/-,4,April 12 1988,15 G 21 A 36 P
+
+22,Dan Boyle\boyleda01,ca,D,37,5-11,194,R/-,14,July 12 1976,12 G 24 A 36 P
+61,Justin Braun\braunju01,us,D,26,6-2,205,R/-,3,February 10 1987,4 G 13 A 17 P
+18,Mike Brown\brownmi02,us,RW,28,5-11,205,R/-,6,June 24 1985,2 G 3 A 5 P
+37,Adam Burish\burisad01,us,RW,31,6-1,195,R/-,7,January 6 1983,0 G 0 A 0 P
+88,Brent Burns\burnsbr01,ca,RW,28,6-5,230,R/-,9,March 9 1985,22 G 26 A 48 P
+39,Logan Couture\coutulo01,ca,C,24,6-1,205,L/-,4,March 28 1989,23 G 31 A 54 P
+5,Jason Demers\demerja01,ca,D,25,6-1,195,R/-,4,June 9 1988,5 G 29 A 34 P
+10,Andrew Desjardins\desjaan01,ca,C,27,6-1,195,R/-,3,July 27 1986,3 G 14 A 17 P
+75,Freddie Hamilton\hamilfr01,ca,C,22,6-1,195,R/-,R,January 1 1992,0 G 0 A 0 P
+27,Scott Hannan\hannasc01,ca,D,35,6-1,215,L/-,14,January 23 1979,3 G 9 A 12 P
+9,Martin Havlat\havlama01,cs,RW,32,6-2,210,L/-,12,April 19 1981,12 G 10 A 22 P
+76,Eriah Hayes\hayeser01,us,RW,25,6-4,210,-/-,R,July 7 1988,1 G 0 A 1 P
+48,Tomas Hertl\hertlto01,cz,C,20,6-2,220,L/-,R,November 12 1993,15 G 10 A 25 P
+52,Matt Irwin\irwinma01,ca,D,26,6-1,207,L/-,1,November 29 1987,2 G 17 A 19 P
+38,Bracken Kearns\kearnbr01,ca,LW,32,6-0,200,L/-,2,May 12 1981,3 G 2 A 5 P
+81,Tyler Kennedy\kennety01,ca,RW,27,5-11,185,R/-,6,July 15 1986,4 G 13 A 17 P
+12,Patrick Marleau\marlepa01,ca,LW,34,6-2,215,L/-,15,September 15 1979,33 G 37 A 70 P
+43,John McCarthy\mccarjo01,us,C,27,6-1,195,L/-,3,August 9 1986,1 G 1 A 2 P
+31,Antti Niemi\niemian02,fi,G,30,6-2,215,-/L,5,August 29 1983,39-17-7 2.39 GAA
+83,Matthew Nieto\nietoma01,us,LW,21,5-11,190,L/-,R,November 5 1992,10 G 14 A 24 P
+8,Joe Pavelski\paveljo01,us,C,29,5-11,195,R/-,7,July 11 1984,41 G 38 A 79 P
+42,Matt Pelech\pelecma01,ca,RW,26,6-4,230,R/-,2,September 4 1987,1 G 0 A 1 P
+15,James Sheppard\sheppja01,ca,LW,25,6-1,215,L/-,4,April 25 1988,4 G 16 A 20 P
+32,Alex Stalock\staloal01,us,G,26,6-0,191,L/L,2,July 28 1987,12-5-2 1.87 GAA
+7,Brad Stuart\stuarbr02,ca,D,34,6-2,215,L/-,13,November 6 1979,3 G 8 A 11 P
+19,Joe Thornton (C)\thornjo01,ca,C,34,6-4,220,L/-,15,July 2 1979,11 G 65 A 76 P
+13,Raffi Torres\torrera01,ca,LW,32,6-0,210,L/-,11,October 8 1981,3 G 2 A 5 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,26,6-1,205,L/-,7,March 30 1987,5 G 19 A 24 P
+57,Tommy Wingels\wingeto01,us,C,25,6-0,200,R/-,3,April 12 1988,16 G 22 A 38 P
+
+22,Dan Boyle\boyleda01,ca,D,36,5-11,194,R/-,13,July 12 1976,7 G 13 A 20 P
+61,Justin Braun\braunju01,us,D,25,6-2,205,R/-,2,February 10 1987,0 G 7 A 7 P
+37,Adam Burish\burisad01,us,C,30,6-1,195,R/-,6,January 6 1983,1 G 2 A 3 P
+88,Brent Burns\burnsbr01,ca,D,27,6-5,230,R/-,8,March 9 1985,9 G 11 A 20 P
+29,Ryane Clowe\clowery01,ca,LW,30,6-3,225,L/-,7,September 30 1982,0 G 11 A 11 P
+39,Logan Couture\coutulo01,ca,C,23,6-1,205,L/-,3,March 28 1989,21 G 16 A 37 P
+5,Jason Demers\demerja01,ca,D,24,6-1,195,R/-,3,June 9 1988,1 G 2 A 3 P
+10,Andrew Desjardins\desjaan01,ca,C,26,6-1,195,R/-,2,July 27 1986,2 G 1 A 3 P
+21,T.J. Galiardi\galiatj01,ca,LW,24,6-2,195,L/-,4,April 22 1988,5 G 9 A 14 P
+23,Scott Gomez\gomezsc01,us,C,33,5-11,200,L/-,12,December 23 1979,2 G 13 A 15 P
+1,Thomas Greiss\greisth01,de,G,27,6-1,227,-/L,3,January 29 1986,1-4-0 2.53 GAA
+26,Michal Handzus\handzmi01,cs,C,35,6-5,215,L/-,13,March 11 1977,1 G 1 A 2 P
+27,Scott Hannan\hannasc01,ca,D,34,6-1,215,L/-,13,January 23 1979,0 G 0 A 0 P
+9,Martin Havlat\havlama01,cs,LW,31,6-2,210,L/-,11,April 19 1981,8 G 10 A 18 P
+52,Matt Irwin\irwinma01,ca,D,25,6-1,207,L/-,R,November 29 1987,6 G 6 A 12 P
+38,Bracken Kearns\kearnbr01,ca,C,31,6-0,200,L/-,1,May 12 1981,0 G 0 A 0 P
+46,Tim Kennedy\kenneti01,us,LW,26,5-10,175,L/-,4,April 30 1986,2 G 0 A 2 P
+12,Patrick Marleau\marlepa01,ca,C,33,6-2,215,L/-,14,September 15 1979,17 G 14 A 31 P
+68,Frazer McLaren\mclarfr01,ca,LW,25,6-5,230,L/-,3,October 29 1987,0 G 0 A 0 P
+3,Douglas Murray\murrado01,se,D,32,6-3,240,L/-,7,March 12 1980,0 G 3 A 3 P
+31,Antti Niemi\niemian02,fi,G,29,6-2,215,-/L,4,August 29 1983,24-12-6 2.16 GAA
+8,Joe Pavelski\paveljo01,us,C,28,5-11,195,R/-,6,July 11 1984,16 G 15 A 31 P
+42,Matt Pelech\pelecma01,ca,D,25,6-4,230,R/-,1,September 4 1987,0 G 0 A 0 P
+54,Nicholas Petrecki\petreni01,,D,23,6-3,225,-/-,R,July 11 1989,0 G 0 A 0 P
+15,James Sheppard\sheppja01,ca,C,24,6-1,215,L/-,3,April 25 1988,1 G 3 A 4 P
+32,Alex Stalock\staloal01,us,G,25,6-0,191,L/L,1,July 28 1987,0-0-1 2.86 GAA
+7,Brad Stuart\stuarbr02,ca,D,33,6-2,215,L/-,12,November 6 1979,0 G 6 A 6 P
+80,Matt Tennyson\tennyma01,us,D,22,6-2,205,R/-,R,April 23 1990,0 G 2 A 2 P
+19,Joe Thornton (C)\thornjo01,ca,C,33,6-4,220,L/-,14,July 2 1979,7 G 33 A 40 P
+13,Raffi Torres\torrera01,ca,LW,31,6-0,210,L/-,10,October 8 1981,2 G 4 A 6 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,25,6-1,205,L/-,6,March 30 1987,3 G 4 A 7 P
+57,Tommy Wingels\wingeto01,us,C,24,6-0,200,R/-,2,April 12 1988,5 G 8 A 13 P
+
+22,Dan Boyle\boyleda01,ca,D,35,5-11,194,R/-,12,July 12 1976,9 G 39 A 48 P
+61,Justin Braun\braunju01,us,D,24,6-2,205,R/-,1,February 10 1987,2 G 9 A 11 P
+88,Brent Burns\burnsbr01,ca,D,26,6-5,230,R/-,7,March 9 1985,11 G 26 A 37 P
+29,Ryane Clowe\clowery01,ca,LW,29,6-3,225,L/-,6,September 30 1982,17 G 28 A 45 P
+39,Logan Couture\coutulo01,ca,C,22,6-1,205,L/-,2,March 28 1989,31 G 34 A 65 P
+60,Jason Demers\demerja01,ca,D,23,6-1,195,R/-,2,June 9 1988,4 G 9 A 13 P
+69,Andrew Desjardins\desjaan01,ca,C,25,6-1,195,R/-,1,July 27 1986,4 G 13 A 17 P
+78,Benn Ferriero\ferribe01,us,C,24,5-11,195,-/-,2,April 29 1987,7 G 1 A 8 P
+37,T.J. Galiardi\galiatj01,ca,LW,23,6-2,195,L/-,3,April 22 1988,1 G 0 A 1 P
+1,Thomas Greiss\greisth01,de,G,26,6-1,227,-/L,2,January 29 1986,9-7-1 2.30 GAA
+26,Michal Handzus\handzmi01,cs,C,34,6-5,215,L/-,12,March 11 1977,7 G 17 A 24 P
+9,Martin Havlat\havlama01,cs,LW,30,6-2,210,L/-,10,April 19 1981,7 G 20 A 27 P
+12,Patrick Marleau\marlepa01,ca,C,32,6-2,215,L/-,13,September 15 1979,30 G 34 A 64 P
+43,John McCarthy\mccarjo01,us,LW,25,6-1,195,L/-,2,August 9 1986,0 G 0 A 0 P
+64,Jamie McGinn\mcginja01,ca,LW,23,6-1,205,L/-,3,August 5 1988,12 G 12 A 24 P
+68,Frazer McLaren\mclarfr01,ca,LW,24,6-5,230,L/-,2,October 29 1987,0 G 0 A 0 P
+17,Torrey Mitchell\mitchto01,ca,C,27,5-11,186,R/-,3,January 30 1985,9 G 10 A 19 P
+18,Dominic Moore\mooredo01,ca,C,31,6-0,192,L/-,7,August 3 1980,0 G 6 A 6 P
+28,Andrew Murray\murraan01,ca,C,30,6-2,210,L/-,4,November 6 1981,1 G 3 A 4 P
+3,Douglas Murray\murrado01,se,D,31,6-3,240,L/-,6,March 12 1980,0 G 4 A 4 P
+31,Antti Niemi\niemian02,fi,G,28,6-2,215,-/L,3,August 29 1983,34-22-9 2.42 GAA
+8,Joe Pavelski\paveljo01,us,C,27,5-11,195,R/-,5,July 11 1984,31 G 30 A 61 P
+19,Joe Thornton (C)\thornjo01,ca,C,32,6-4,220,L/-,13,July 2 1979,18 G 59 A 77 P
+2,Jim Vandermeer\vandeji01,ca,D,31,6-1,210,L/-,8,February 21 1980,1 G 3 A 4 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,24,6-1,205,L/-,5,March 30 1987,4 G 19 A 23 P
+5,Colin White\whiteco01,ca,D,34,6-3,215,L/-,11,December 12 1977,1 G 3 A 4 P
+10,Brad Winchester\winchbr01,us,LW,30,6-5,230,L/-,6,March 1 1981,6 G 4 A 10 P
+57,Tommy Wingels\wingeto01,us,C,23,6-0,200,R/-,1,April 12 1988,3 G 6 A 9 P
+34,Daniel Winnik\winnida01,ca,C,26,6-2,210,L/-,4,March 6 1985,3 G 2 A 5 P
+
+22,Dan Boyle\boyleda01,ca,D,34,5-11,194,R/-,11,July 12 1976,9 G 41 A 50 P
+61,Justin Braun\braunju01,us,D,23,6-2,205,R/-,R,February 10 1987,2 G 9 A 11 P
+29,Ryane Clowe\clowery01,ca,LW,28,6-3,225,L/-,5,September 30 1982,24 G 38 A 62 P
+39,Logan Couture\coutulo01,ca,C,21,6-1,205,L/-,1,March 28 1989,32 G 24 A 56 P
+60,Jason Demers\demerja01,ca,D,22,6-1,195,R/-,1,June 9 1988,2 G 22 A 24 P
+69,Andrew Desjardins\desjaan01,ca,C,24,6-1,195,R/-,R,July 27 1986,1 G 2 A 3 P
+55,Ben Eager\eagerbe01,ca,LW,27,6-2,240,L/-,5,January 22 1984,4 G 3 A 7 P
+78,Benn Ferriero\ferribe01,us,C,23,5-11,195,-/-,1,April 29 1987,5 G 4 A 9 P
+15,Dany Heatley\heatlda01,de,RW,30,6-3,212,L/-,8,January 21 1981,26 G 38 A 64 P
+40,Kent Huskins\huskike01,ca,D,31,6-4,210,L/-,4,May 4 1979,2 G 8 A 10 P
+65,Derek Joslin\joslide01,ca,D,23,6-1,210,L/-,2,March 17 1987,1 G 3 A 4 P
+12,Patrick Marleau\marlepa01,ca,C,31,6-2,215,L/-,12,September 15 1979,37 G 36 A 73 P
+72,Brandon Mashinter\mashibr01,ca,LW,22,6-4,212,L/-,R,September 20 1988,0 G 0 A 0 P
+10,Jamal Mayers\mayerja01,ca,RW,36,6-1,222,R/-,12,October 24 1974,3 G 11 A 14 P
+43,John McCarthy\mccarjo01,us,LW,24,6-1,195,L/-,1,August 9 1986,2 G 2 A 4 P
+64,Jamie McGinn\mcginja01,ca,LW,22,6-1,205,L/-,2,August 5 1988,1 G 5 A 6 P
+68,Frazer McLaren\mclarfr01,ca,LW,23,6-5,230,L/-,1,October 29 1987,0 G 0 A 0 P
+17,Torrey Mitchell\mitchto01,ca,C,26,5-11,186,R/-,2,January 30 1985,9 G 14 A 23 P
+55,Mike Moore\mooremi01,,D,26,6-1,210,-/-,R,December 12 1984,1 G 0 A 1 P
+3,Douglas Murray\murrado01,se,D,30,6-3,240,L/-,5,March 12 1980,1 G 13 A 14 P
+21,Scott Nichol\nichosc01,ca,C,36,5-8,179,R/-,10,December 31 1974,4 G 3 A 7 P
+31,Antti Niemi\niemian02,fi,G,27,6-2,215,-/L,2,August 29 1983,35-18-6 2.38 GAA
+30,Antero Niittymaki\niittan01,fi,G,30,6-1,210,-/L,6,June 18 1980,12-7-3 2.72 GAA
+8,Joe Pavelski\paveljo01,us,C,26,5-11,195,R/-,4,July 11 1984,20 G 46 A 66 P
+16,Devin Setoguchi\setogde01,ca,RW,24,6-0,205,R/-,3,January 1 1987,22 G 19 A 41 P
+32,Alex Stalock\staloal01,us,G,23,6-0,191,L/L,R,July 28 1987,1-0-0 0.00 GAA
+19,Joe Thornton (C)\thornjo01,ca,C,31,6-4,220,L/-,12,July 2 1979,21 G 49 A 70 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,23,6-1,205,L/-,4,March 30 1987,4 G 14 A 18 P
+7,Niclas Wallin\wallini01,se,D,35,6-3,220,L/-,9,February 20 1975,3 G 5 A 8 P
+20,Kyle Wellwood\wellwky01,ca,C,27,5-10,181,R/-,6,May 16 1983,5 G 8 A 13 P
+9,Ian White\whiteia01,ca,D,26,5-10,191,R/-,5,June 4 1984,2 G 8 A 10 P
+57,Tommy Wingels\wingeto01,us,C,22,6-0,200,R/-,R,April 12 1988,0 G 0 A 0 P
+
+4,Rob Blake (C)\blakero01,ca,D,40,6-4,220,R/-,19,December 10 1969,7 G 23 A 30 P
+22,Dan Boyle\boyleda01,ca,D,33,5-11,194,R/-,10,July 12 1976,15 G 43 A 58 P
+47,Joe Callahan\callajo02,us,D,27,6-3,220,R/-,1,December 20 1982,0 G 1 A 1 P
+29,Ryane Clowe\clowery01,ca,LW,27,6-3,225,L/-,4,September 30 1982,19 G 38 A 57 P
+39,Logan Couture\coutulo01,ca,C,20,6-1,205,L/-,R,March 28 1989,5 G 4 A 9 P
+60,Jason Demers\demerja01,ca,D,21,6-1,195,R/-,R,June 9 1988,4 G 17 A 21 P
+78,Benn Ferriero\ferribe01,us,C,22,5-11,195,-/-,R,April 29 1987,2 G 3 A 5 P
+1,Thomas Greiss\greisth01,de,G,24,6-1,227,-/L,1,January 29 1986,7-4-1 2.69 GAA
+15,Dany Heatley\heatlda01,de,RW,29,6-3,212,L/-,7,January 21 1981,39 G 43 A 82 P
+36,Dwight Helminen\helmidw01,us,C,26,5-10,190,L/-,1,June 22 1983,1 G 0 A 1 P
+40,Kent Huskins\huskike01,ca,D,30,6-4,210,L/-,3,May 4 1979,3 G 19 A 22 P
+65,Derek Joslin\joslide01,ca,D,22,6-1,210,L/-,1,March 17 1987,0 G 3 A 3 P
+28,Jay Leach\leachja02,us,D,30,6-5,220,L/-,3,September 2 1979,1 G 1 A 2 P
+27,Manny Malhotra\malhoma01,ca,C,29,6-2,220,L/-,10,May 18 1980,14 G 19 A 33 P
+12,Patrick Marleau\marlepa01,ca,C,30,6-2,215,L/-,11,September 15 1979,44 G 39 A 83 P
+43,John McCarthy\mccarjo01,us,LW,23,6-1,195,L/-,R,August 9 1986,0 G 0 A 0 P
+64,Jamie McGinn\mcginja01,ca,LW,21,6-1,205,L/-,1,August 5 1988,10 G 3 A 13 P
+68,Frazer McLaren\mclarfr01,ca,LW,22,6-5,230,L/-,R,October 29 1987,1 G 5 A 6 P
+17,Torrey Mitchell\mitchto01,ca,C,25,5-11,186,R/-,1,January 30 1985,2 G 9 A 11 P
+3,Douglas Murray\murrado01,se,D,29,6-3,240,L/-,4,March 12 1980,4 G 13 A 17 P
+20,Evgeni Nabokov\nabokev01,su,G,34,6-0,202,-/L,9,July 25 1975,44-16-10 2.43 GAA
+21,Scott Nichol\nichosc01,ca,C,35,5-8,179,R/-,9,December 31 1974,4 G 15 A 19 P
+41,Jed Ortmeyer\ortmeje01,us,RW,31,6-0,200,R/-,5,September 3 1978,8 G 11 A 19 P
+8,Joe Pavelski\paveljo01,us,C,25,5-11,195,R/-,3,July 11 1984,25 G 26 A 51 P
+16,Devin Setoguchi\setogde01,ca,RW,23,6-0,205,R/-,2,January 1 1987,20 G 16 A 36 P
+45,Jody Shelley\shelljo01,ca,LW,33,6-3,230,L/-,8,February 7 1976,0 G 3 A 3 P
+59,Brad Staubitz\staubbr01,ca,RW,25,6-1,215,R/-,1,July 28 1984,3 G 3 A 6 P
+19,Joe Thornton\thornjo01,ca,C,30,6-4,220,L/-,11,July 2 1979,20 G 69 A 89 P
+53,Ryan Vesce\vescery01,us,RW,27,5-8,175,R/-,1,April 7 1982,3 G 2 A 5 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,22,6-1,205,L/-,3,March 30 1987,3 G 13 A 16 P
+7,Niclas Wallin\wallini01,se,D,34,6-3,220,L/-,8,February 20 1975,0 G 2 A 2 P
+48,Steven Zalewski\zalewst01,us,C,23,6-0,195,L/-,R,August 20 1986,0 G 0 A 0 P
+
+40,Riley Armstrong\armstri01,ca,RW,24,5-11,185,R/-,R,November 8 1984,0 G 0 A 0 P
+4,Rob Blake\blakero01,ca,D,39,6-4,220,R/-,18,December 10 1969,10 G 35 A 45 P
+33,Brian Boucher\bouchbr01,us,G,32,6-2,198,-/L,8,January 2 1977,12-6-3 2.18 GAA
+22,Dan Boyle\boyleda01,ca,D,32,5-11,194,R/-,9,July 12 1976,16 G 41 A 57 P
+47,Tom Cavanagh\cavanto01,us,C,26,6-0,200,L/-,1,March 24 1982,1 G 1 A 2 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,28,6-1,200,R/-,5,July 15 1980,12 G 17 A 29 P
+29,Ryane Clowe\clowery01,ca,LW,26,6-3,225,L/-,3,September 30 1982,22 G 30 A 52 P
+10,Christian Ehrhoff\ehrhoch01,de,D,26,6-2,201,L/-,4,July 6 1982,8 G 34 A 42 P
+11,Marcel Goc\gocma01,de,C,25,6-1,197,L/-,3,August 24 1983,2 G 9 A 11 P
+25,Mike Grier\griermi01,us,RW,34,6-1,224,R/-,11,January 5 1975,10 G 13 A 23 P
+65,Derek Joslin\joslide01,ca,D,21,6-1,210,L/-,R,March 17 1987,0 G 0 A 0 P
+43,Lukas Kaspar\kaspalu01,cs,LW,23,6-2,220,L/-,1,September 23 1985,2 G 2 A 4 P
+32,Claude Lemieux\lemiecl01,ca,RW,43,6-1,215,R/-,20,July 16 1965,0 G 1 A 1 P
+37,Brad Lukowich\lukowbr01,ca,D,32,6-1,200,L/-,10,August 12 1976,0 G 8 A 8 P
+12,Patrick Marleau (C)\marlepa01,ca,LW,29,6-2,215,L/-,10,September 15 1979,38 G 33 A 71 P
+64,Jamie McGinn\mcginja01,ca,LW,20,6-1,205,L/-,R,August 5 1988,4 G 2 A 6 P
+9,Milan Michalek\michami01,cs,LW,24,6-2,225,L/-,4,December 7 1984,23 G 34 A 57 P
+24,Travis Moen\moentr01,ca,LW,26,6-2,215,L/-,4,April 6 1982,3 G 2 A 5 P
+3,Douglas Murray\murrado01,se,D,28,6-3,240,L/-,3,March 12 1980,0 G 7 A 7 P
+20,Evgeni Nabokov\nabokev01,su,G,33,6-0,202,-/L,8,July 25 1975,41-12-8 2.44 GAA
+8,Joe Pavelski\paveljo01,us,C,24,5-11,195,R/-,2,July 11 1984,25 G 34 A 59 P
+39,Tomas Plihal\plihato01,cs,LW,25,6-1,210,L/-,2,March 28 1983,5 G 8 A 13 P
+27,Jeremy Roenick\roenije01,us,C,39,6-1,205,R/-,19,January 17 1970,4 G 9 A 13 P
+21,Alexei Semenov\semenal01,su,D,27,6-6,245,L/-,5,April 10 1981,1 G 7 A 8 P
+16,Devin Setoguchi\setogde01,ca,RW,22,6-0,205,R/-,1,January 1 1987,31 G 34 A 65 P
+45,Jody Shelley\shelljo01,ca,LW,32,6-3,230,L/-,7,February 7 1976,2 G 2 A 4 P
+59,Brad Staubitz\staubbr01,ca,RW,24,6-1,215,R/-,R,July 28 1984,1 G 2 A 3 P
+19,Joe Thornton\thornjo01,ca,C,29,6-4,220,L/-,10,July 2 1979,25 G 61 A 86 P
+53,Ryan Vesce\vescery01,us,RW,26,5-8,175,R/-,R,April 7 1982,0 G 0 A 0 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,21,6-1,205,L/-,2,March 30 1987,6 G 30 A 36 P
+
+56,Steve Bernier\bernist01,ca,RW,22,6-3,224,R/-,2,March 31 1985,13 G 10 A 23 P
+33,Brian Boucher\bouchbr01,us,G,31,6-2,198,-/L,7,January 2 1977,3-1-1 1.76 GAA
+37,Curtis Brown\browncu01,ca,C,31,6-0,200,L/-,12,February 12 1976,5 G 4 A 9 P
+51,Brian Campbell\campbbr02,ca,D,28,5-10,192,L/-,7,May 23 1979,3 G 16 A 19 P
+18,Matt Carle\carlema01,us,D,23,6-0,197,L/-,2,September 25 1984,2 G 13 A 15 P
+47,Tom Cavanagh\cavanto01,us,C,25,6-0,200,L/-,R,March 24 1982,0 G 1 A 1 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,27,6-1,200,R/-,4,July 15 1980,23 G 14 A 37 P
+29,Ryane Clowe\clowery01,ca,LW,25,6-3,225,L/-,2,September 30 1982,3 G 5 A 8 P
+3,Rob Davison\davisro01,ca,D,27,6-2,215,L/-,4,May 1 1980,0 G 0 A 0 P
+10,Christian Ehrhoff\ehrhoch01,de,D,25,6-2,201,L/-,3,July 6 1982,1 G 21 A 22 P
+11,Marcel Goc\gocma01,de,C,24,6-1,197,L/-,2,August 24 1983,5 G 3 A 8 P
+1,Thomas Greiss\greisth01,de,G,22,6-1,227,-/L,R,January 29 1986,0-1-1 3.26 GAA
+25,Mike Grier\griermi01,us,RW,33,6-1,224,R/-,10,January 5 1975,9 G 13 A 22 P
+46,Mike Iggulden\iggulmi01,ca,C,25,6-3,215,R/-,R,November 9 1982,0 G 0 A 0 P
+43,Lukas Kaspar\kaspalu01,cs,LW,22,6-2,220,L/-,R,September 23 1985,0 G 0 A 0 P
+12,Patrick Marleau (C)\marlepa01,ca,C,28,6-2,215,L/-,9,September 15 1979,19 G 29 A 48 P
+4,Kyle McLaren\mclarky01,ca,D,30,6-4,235,L/-,11,June 18 1977,3 G 8 A 11 P
+9,Milan Michalek\michami01,cs,LW,23,6-2,225,L/-,3,December 7 1984,24 G 31 A 55 P
+17,Torrey Mitchell\mitchto01,ca,C,23,5-11,186,R/-,R,January 30 1985,10 G 10 A 20 P
+3,Douglas Murray\murrado01,se,D,27,6-3,240,L/-,2,March 12 1980,1 G 9 A 10 P
+20,Evgeni Nabokov\nabokev01,su,G,32,6-0,202,-/L,7,July 25 1975,46-21-8 2.14 GAA
+24,Sandis Ozolinsh\ozolisa01,su,D,35,6-3,215,L/-,14,August 3 1972,3 G 13 A 16 P
+30,Dimitri Patzold\patzodi01,su,G,24,6-0,195,-/L,R,February 3 1983,0-0-0 5.45 GAA
+8,Joe Pavelski\paveljo01,us,C,23,5-11,195,R/-,1,July 11 1984,19 G 21 A 40 P
+39,Tomas Plihal\plihato01,cs,C,24,6-1,210,L/-,1,March 28 1983,2 G 1 A 3 P
+34,Patrick Rissmiller\rissmpa01,us,LW,29,6-4,225,L/-,3,October 26 1978,8 G 9 A 17 P
+52,Craig Rivet\rivetcr01,ca,D,33,6-2,207,R/-,12,September 13 1974,5 G 30 A 35 P
+27,Jeremy Roenick\roenije01,us,C,38,6-1,205,R/-,18,January 17 1970,14 G 19 A 33 P
+21,Alexei Semenov\semenal01,su,D,26,6-6,245,L/-,4,April 10 1981,1 G 3 A 4 P
+16,Devin Setoguchi\setogde01,ca,RW,21,6-0,205,R/-,R,January 1 1987,11 G 6 A 17 P
+45,Jody Shelley\shelljo01,ca,LW,31,6-3,230,L/-,6,February 7 1976,1 G 6 A 7 P
+19,Joe Thornton\thornjo01,ca,C,28,6-4,220,L/-,9,July 2 1979,29 G 67 A 96 P
+44,Marc-Edouard Vlasic\vlasima01,ca,D,20,6-1,205,L/-,1,March 30 1987,2 G 12 A 14 P
+
+7,Mark Bell\bellma01,ca,LW,26,6-3,220,L/-,5,August 5 1980,11 G 10 A 21 P
+26,Steve Bernier\bernist01,ca,RW,21,6-3,224,R/-,1,March 31 1985,15 G 16 A 31 P
+37,Curtis Brown\browncu01,ca,C,30,6-0,200,L/-,11,February 12 1976,8 G 12 A 20 P
+18,Matt Carle\carlema01,us,D,22,6-0,197,L/-,1,September 25 1984,11 G 31 A 42 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,26,6-1,200,R/-,3,July 15 1980,37 G 32 A 69 P
+29,Ryane Clowe\clowery01,ca,LW,24,6-3,225,L/-,1,September 30 1982,16 G 18 A 34 P
+49,Mathieu Darche\darchma01,ca,LW,30,6-1,215,L/-,4,November 26 1976,0 G 0 A 0 P
+5,Rob Davison\davisro01,ca,D,26,6-2,215,L/-,3,May 1 1980,0 G 2 A 2 P
+10,Christian Ehrhoff\ehrhoch01,de,D,24,6-2,201,L/-,2,July 6 1982,10 G 23 A 33 P
+11,Marcel Goc\gocma01,de,C,23,6-1,197,L/-,1,August 24 1983,5 G 8 A 13 P
+6,Josh Gorges\gorgejo01,ca,D,22,6-1,204,L/-,1,August 14 1984,1 G 3 A 4 P
+25,Mike Grier\griermi01,us,RW,32,6-1,224,R/-,9,January 5 1975,16 G 17 A 33 P
+13,Bill Guerin\gueribi01,us,RW,36,6-2,220,R/-,14,November 9 1970,8 G 1 A 9 P
+22,Scott Hannan\hannasc01,ca,D,28,6-1,215,L/-,7,January 23 1979,4 G 20 A 24 P
+12,Patrick Marleau (C)\marlepa01,ca,C,27,6-2,215,L/-,8,September 15 1979,32 G 46 A 78 P
+4,Kyle McLaren\mclarky01,ca,D,29,6-4,235,L/-,10,June 18 1977,5 G 12 A 17 P
+9,Milan Michalek\michami01,cs,RW,22,6-2,225,L/-,2,December 7 1984,26 G 40 A 66 P
+3,Douglas Murray\murrado01,se,D,26,6-3,240,L/-,1,March 12 1980,0 G 3 A 3 P
+20,Evgeni Nabokov\nabokev01,su,G,31,6-0,202,-/L,6,July 25 1975,25-16-4 2.29 GAA
+15,Ville Nieminen\niemivi01,fi,LW,29,5-11,200,L/-,6,April 6 1977,1 G 1 A 2 P
+27,Scott Parker\parkesc01,us,RW,29,6-5,240,R/-,6,January 29 1978,0 G 0 A 0 P
+8-53,Joe Pavelski\paveljo01,us,C,22,5-11,195,R/-,R,July 11 1984,14 G 14 A 28 P
+39,Tomas Plihal\plihato01,cs,C,23,6-1,210,L/-,R,March 28 1983,0 G 0 A 0 P
+34,Patrick Rissmiller\rissmpa01,us,C,28,6-4,225,L/-,2,October 26 1978,7 G 15 A 22 P
+52,Craig Rivet\rivetcr01,ca,D,32,6-2,207,R/-,11,September 13 1974,1 G 7 A 8 P
+16,Mark Smith\smithma01,ca,C,29,5-10,200,L/-,5,October 24 1977,3 G 10 A 13 P
+19,Joe Thornton\thornjo01,ca,C,27,6-4,220,L/-,8,July 2 1979,22 G 92 A 114 P
+35,Vesa Toskala\toskave01,fi,G,29,5-10,195,-/L,4,May 20 1977,26-10-1 2.35 GAA
+44,Marc-Edouard Vlasic\vlasima01,ca,D,19,6-1,205,L/-,R,March 30 1987,3 G 23 A 26 P
+
+26-46,Steve Bernier\bernist01,ca,RW,20,6-3,224,R/-,R,March 31 1985,14 G 13 A 27 P
+43,Matt Carkner\carknma01,ca,D,25,6-4,227,R/-,R,November 3 1980,0 G 1 A 1 P
+25,Matt Carle\carlema01,us,D,21,6-0,197,L/-,R,September 25 1984,3 G 3 A 6 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,25,6-1,200,R/-,2,July 15 1980,56 G 37 A 93 P
+29,Ryane Clowe\clowery01,ca,RW,23,6-3,225,L/-,R,September 30 1982,0 G 2 A 2 P
+5,Rob Davison\davisro01,ca,D,25,6-2,215,L/-,2,May 1 1980,1 G 5 A 6 P
+23,Niko Dimitrakos\dimitni01,us,RW,26,5-11,205,R/-,2,May 21 1979,4 G 12 A 16 P
+44,Christian Ehrhoff\ehrhoch01,de,D,23,6-2,201,L/-,1,July 6 1982,5 G 18 A 23 P
+28,Nils Ekman\ekmanni01,se,RW,29,6-0,185,L/-,3,March 11 1976,21 G 36 A 57 P
+21,Jim Fahey\faheyji01,us,D,26,6-0,205,R/-,2,May 11 1979,0 G 2 A 2 P
+11,Marcel Goc\gocma01,de,C,22,6-1,197,L/-,R,August 24 1983,8 G 14 A 22 P
+6,Josh Gorges\gorgejo01,ca,D,21,6-1,204,L/-,R,August 14 1984,0 G 6 A 6 P
+22,Scott Hannan\hannasc01,ca,D,27,6-1,215,L/-,6,January 23 1979,6 G 18 A 24 P
+24,Josh Langfeld\langfjo01,us,RW,28,6-3,216,R/-,3,July 17 1977,2 G 9 A 11 P
+12,Patrick Marleau (C)\marlepa01,ca,C,26,6-2,215,L/-,7,September 15 1979,34 G 52 A 86 P
+10,Alyn McCauley\mccaual01,ca,C,28,5-11,200,L/-,7,May 29 1977,12 G 14 A 26 P
+4,Kyle McLaren\mclarky01,ca,D,28,6-4,235,L/-,9,June 18 1977,2 G 21 A 23 P
+9,Milan Michalek\michami01,cs,RW,21,6-2,225,L/-,1,December 7 1984,17 G 18 A 35 P
+41,Douglas Murray\murrado01,se,D,25,6-3,240,L/-,R,March 12 1980,0 G 1 A 1 P
+20,Evgeni Nabokov\nabokev01,su,G,30,6-0,202,-/L,5,July 25 1975,16-19-7 3.10 GAA
+15,Ville Nieminen\niemivi01,fi,LW,28,5-11,200,L/-,5,April 6 1977,3 G 4 A 7 P
+27,Scott Parker\parkesc01,us,LW,28,6-5,240,R/-,5,January 29 1978,1 G 0 A 1 P
+42,Tom Preissing\preisto01,us,D,27,6-0,197,R/-,1,December 3 1978,11 G 32 A 43 P
+15,Wayne Primeau\primewa01,ca,C,29,6-4,225,L/-,10,June 4 1976,5 G 3 A 8 P
+34,Patrick Rissmiller\rissmpa01,us,C,27,6-4,225,L/-,1,October 26 1978,3 G 3 A 6 P
+31,Nolan Schaefer\schaeno01,ca,G,26,6-2,200,-/R,R,January 15 1980,5-1-0 1.88 GAA
+16,Mark Smith\smithma01,ca,C,28,5-10,200,L/-,4,October 24 1977,9 G 15 A 24 P
+37-55,Grant Stevenson\stevegr01,ca,C,24,5-11,170,R/-,R,October 15 1981,10 G 12 A 22 P
+7,Brad Stuart\stuarbr02,ca,D,26,6-2,215,L/-,5,November 6 1979,2 G 10 A 12 P
+19,Marco Sturm\sturmma01,de,LW,27,6-0,196,L/-,7,September 8 1978,6 G 10 A 16 P
+19,Joe Thornton\thornjo01,ca,C,26,6-4,220,L/-,7,July 2 1979,20 G 72 A 92 P
+17,Scott Thornton\thornsc01,ca,LW,35,6-3,220,L/-,14,January 9 1971,10 G 11 A 21 P
+35,Vesa Toskala\toskave01,fi,G,28,5-10,195,-/L,3,May 20 1977,23-7-4 2.56 GAA
+
+24,Brad Boyes\boyesbr01,ca,C,21,6-0,199,R/-,R,April 17 1982,0 G 0 A 0 P
+37,Curtis Brown\browncu01,ca,C,27,6-0,200,L/-,9,February 12 1976,2 G 2 A 4 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,23,6-1,200,R/-,1,July 15 1980,28 G 19 A 47 P
+25,Vincent Damphousse (C)\damphvi01,ca,LW,36,6-1,200,L/-,17,December 17 1967,12 G 29 A 41 P
+5,Rob Davison\davisro01,ca,D,23,6-2,215,L/-,1,May 1 1980,0 G 3 A 3 P
+23,Niko Dimitrakos\dimitni01,us,RW,24,5-11,205,R/-,1,May 21 1979,9 G 15 A 24 P
+44,Christian Ehrhoff\ehrhoch01,de,D,21,6-2,201,L/-,R,July 6 1982,1 G 11 A 12 P
+28,Nils Ekman\ekmanni01,se,RW,27,6-0,185,L/-,2,March 11 1976,22 G 33 A 55 P
+21,Jim Fahey\faheyji01,us,D,24,6-0,205,R/-,1,May 11 1979,0 G 2 A 2 P
+22,Scott Hannan\hannasc01,ca,D,25,6-1,215,L/-,5,January 23 1979,6 G 15 A 21 P
+13,Todd Harvey\harveto01,ca,C,28,6-0,210,R/-,9,February 17 1975,4 G 5 A 9 P
+94,Alexander Korolyuk\korolal01,su,LW,28,5-9,190,L/-,5,January 15 1976,19 G 18 A 37 P
+26,Lynn Loyns\loynsly01,ca,LW,22,5-11,205,L/-,1,February 21 1981,0 G 0 A 0 P
+12,Patrick Marleau (C)\marlepa01,ca,C,24,6-2,215,L/-,6,September 15 1979,28 G 29 A 57 P
+6,Jason Marshall\marshja02,ca,D,32,6-2,200,R/-,10,February 22 1971,0 G 2 A 2 P
+10,Alyn McCauley (C)\mccaual01,ca,C,26,5-11,200,L/-,6,May 29 1977,20 G 27 A 47 P
+4,Kyle McLaren\mclarky01,ca,D,26,6-4,235,L/-,8,June 18 1977,2 G 22 A 24 P
+9,Milan Michalek\michami01,cs,RW,19,6-2,225,L/-,R,December 7 1984,1 G 0 A 1 P
+20,Evgeni Nabokov\nabokev01,su,G,28,6-0,202,-/L,4,July 25 1975,31-19-8 2.20 GAA
+27,Scott Parker\parkesc01,us,RW,26,6-5,240,R/-,4,January 29 1978,1 G 3 A 4 P
+42,Tom Preissing\preisto01,us,D,25,6-0,197,R/-,R,December 3 1978,2 G 17 A 19 P
+15,Wayne Primeau\primewa01,ca,LW,27,6-4,225,L/-,9,June 4 1976,9 G 20 A 29 P
+2,Mike Rathje\rathjmi01,ca,D,29,6-5,235,L/-,10,May 11 1974,2 G 17 A 19 P
+18,Mike Ricci (C)\riccimi01,ca,C,32,6-0,200,L/-,13,October 27 1971,7 G 19 A 26 P
+34,Patrick Rissmiller\rissmpa01,us,C,25,6-4,225,L/-,R,October 26 1978,0 G 0 A 0 P
+16,Mark Smith\smithma01,ca,C,26,5-10,200,L/-,3,October 24 1977,1 G 3 A 4 P
+7,Brad Stuart\stuarbr02,ca,D,24,6-2,215,L/-,4,November 6 1979,9 G 30 A 39 P
+19,Marco Sturm\sturmma01,de,RW,25,6-0,196,L/-,6,September 8 1978,21 G 20 A 41 P
+17,Scott Thornton\thornsc01,ca,LW,33,6-3,220,L/-,13,January 9 1971,13 G 14 A 27 P
+35,Vesa Toskala\toskave01,fi,G,26,5-10,195,-/L,2,May 20 1977,12-8-4 2.06 GAA
+32,Miroslav Zalesak\zalesmi01,cs,RW,24,6-0,200,L/-,1,January 2 1980,0 G 0 A 0 P
+
+28,Matt Bradley\bradlma01,ca,RW,24,6-3,200,R/-,2,June 13 1978,2 G 3 A 5 P
+14,Jonathan Cheechoo\cheecjo01,ca,RW,22,6-1,200,R/-,R,July 15 1980,9 G 7 A 16 P
+25,Vincent Damphousse\damphvi01,ca,C,35,6-1,200,L/-,16,December 17 1967,23 G 38 A 61 P
+38,Rob Davison\davisro01,ca,D,22,6-2,215,L/-,R,May 1 1980,1 G 2 A 3 P
+23,Niko Dimitrakos\dimitni01,us,RW,23,5-11,205,R/-,R,May 21 1979,6 G 7 A 13 P
+21,Jim Fahey\faheyji01,us,D,23,6-0,205,R/-,R,May 11 1979,1 G 19 A 20 P
+53,Jesse Fibiger\fibigje01,ca,D,24,6-3,210,L/-,R,April 4 1978,0 G 0 A 0 P
+9,Adam Graves\gravead01,ca,LW,34,6-0,205,L/-,15,April 12 1968,9 G 9 A 18 P
+22,Scott Hannan\hannasc01,ca,D,24,6-1,215,L/-,4,January 23 1979,3 G 19 A 22 P
+13,Todd Harvey\harveto01,ca,RW,27,6-0,210,R/-,8,February 17 1975,3 G 16 A 19 P
+23,Shawn Heins\heinssh01,ca,D,29,6-4,210,L/-,4,December 24 1973,0 G 1 A 1 P
+4,John Jakopin\jakopjo01,ca,D,27,6-5,239,R/-,5,May 16 1975,0 G 0 A 0 P
+5,Jeff Jillson\jillsje01,us,D,22,6-3,215,R/-,1,July 24 1980,0 G 6 A 6 P
+37,Miikka Kiprusoff\kiprumi01,fi,G,26,6-1,185,-/L,2,October 26 1976,5-14-0 3.25 GAA
+41,Ryan Kraft\kraftry01,us,C,27,5-9,181,L/-,R,November 7 1975,0 G 1 A 1 P
+26,Lynn Loyns\loynsly01,ca,LW,21,5-11,205,L/-,R,February 21 1981,3 G 0 A 3 P
+27,Bryan Marchment\marchbr02,ca,D,33,6-1,200,L/-,14,May 1 1969,2 G 9 A 11 P
+12,Patrick Marleau\marlepa01,ca,C,23,6-2,215,L/-,5,September 15 1979,28 G 29 A 57 P
+10,Alyn McCauley\mccaual01,ca,C,25,5-11,200,L/-,5,May 29 1977,3 G 7 A 10 P
+3,Dan McGillis\mcgilda01,ca,D,30,6-3,220,L/-,6,July 1 1972,3 G 13 A 16 P
+4,Kyle McLaren\mclarky01,ca,D,25,6-4,235,L/-,7,June 18 1977,0 G 8 A 8 P
+20,Evgeni Nabokov\nabokev01,su,G,27,6-0,202,-/L,3,July 25 1975,19-28-8 2.71 GAA
+11,Owen Nolan (C)\nolanow01,gb,RW,30,6-1,214,R/-,12,February 12 1972,22 G 20 A 42 P
+15,Wayne Primeau\primewa01,ca,C,26,6-4,225,L/-,8,June 4 1976,1 G 1 A 2 P
+10,Marcus Ragnarsson\ragnama01,se,D,31,6-1,215,L/-,7,August 13 1971,1 G 7 A 8 P
+2,Mike Rathje\rathjmi01,ca,D,28,6-5,235,L/-,9,May 11 1974,7 G 22 A 29 P
+18,Mike Ricci\riccimi01,ca,C,31,6-0,200,L/-,12,October 27 1971,11 G 23 A 34 P
+8,Teemu Selanne\selante01,fi,RW,32,6-0,200,R/-,10,July 3 1970,28 G 36 A 64 P
+16,Mark Smith\smithma01,ca,C,25,5-10,200,L/-,2,October 24 1977,4 G 11 A 15 P
+7,Brad Stuart\stuarbr02,ca,D,23,6-2,215,L/-,3,November 6 1979,4 G 10 A 14 P
+19,Marco Sturm\sturmma01,de,LW,24,6-0,196,L/-,5,September 8 1978,28 G 20 A 48 P
+24,Niklas Sundstrom\sundsni01,se,LW,27,6-0,191,L/-,7,June 6 1975,2 G 10 A 12 P
+17,Scott Thornton\thornsc01,ca,LW,32,6-3,220,L/-,12,January 9 1971,9 G 12 A 21 P
+29,Vesa Toskala\toskave01,fi,G,25,5-10,195,-/L,1,May 20 1977,4-3-1 2.35 GAA
+49,Chad Wiseman\wisemch01,ca,LW,21,6-1,205,L/-,R,March 25 1981,0 G 0 A 0 P
+46,Miroslav Zalesak\zalesmi01,cs,RW,23,6-0,200,L/-,R,January 2 1980,1 G 2 A 3 P
+
+3,Steve Bancroft\bancrst01,ca,D,31,6-1,214,L/-,1,October 6 1970,0 G 1 A 1 P
+28,Matt Bradley\bradlma01,ca,RW,23,6-3,200,R/-,1,June 13 1978,9 G 13 A 22 P
+26,Mike Craig\craigmi01,ca,RW,30,6-1,185,R/-,8,June 6 1971,0 G 0 A 0 P
+25,Vincent Damphousse\damphvi01,ca,C,34,6-1,200,L/-,15,December 17 1967,20 G 38 A 58 P
+9,Adam Graves\gravead01,ca,LW,33,6-0,205,L/-,14,April 12 1968,17 G 14 A 31 P
+22,Scott Hannan\hannasc01,ca,D,23,6-1,215,L/-,3,January 23 1979,2 G 12 A 14 P
+13,Todd Harvey\harveto01,ca,RW,26,6-0,210,R/-,7,February 17 1975,9 G 13 A 22 P
+23,Shawn Heins\heinssh01,ca,D,28,6-4,210,L/-,3,December 24 1973,0 G 2 A 2 P
+50,Hannes Hyvonen\hyvonha01,fi,D,26,6-2,200,R/-,R,August 29 1975,0 G 0 A 0 P
+5,Jeff Jillson\jillsje01,us,D,21,6-3,215,R/-,R,July 24 1980,5 G 13 A 18 P
+34-37,Miikka Kiprusoff\kiprumi01,fi,G,25,6-1,185,-/L,1,October 26 1976,7-6-3 2.49 GAA
+15,Alexander Korolyuk\korolal01,su,LW,26,5-9,190,L/-,4,January 15 1976,3 G 7 A 10 P
+27,Bryan Marchment\marchbr02,ca,D,32,6-1,200,L/-,13,May 1 1969,2 G 20 A 22 P
+12,Patrick Marleau\marlepa01,ca,C,22,6-2,215,L/-,4,September 15 1979,21 G 23 A 44 P
+32,Stephane Matteau\mattest01,ca,LW,32,6-4,215,L/-,11,September 2 1969,7 G 4 A 11 P
+35,Evgeni Nabokov\nabokev01,su,G,26,6-0,202,-/L,2,July 25 1975,37-24-5 2.29 GAA
+11,Owen Nolan (C)\nolanow01,gb,C,29,6-1,214,R/-,11,February 12 1972,23 G 43 A 66 P
+10,Marcus Ragnarsson\ragnama01,se,D,30,6-1,215,L/-,6,August 13 1971,5 G 15 A 20 P
+2,Mike Rathje\rathjmi01,ca,D,27,6-5,235,L/-,8,May 11 1974,5 G 12 A 17 P
+18,Mike Ricci\riccimi01,ca,C,30,6-0,200,L/-,11,October 27 1971,19 G 34 A 53 P
+8,Teemu Selanne\selante01,fi,RW,31,6-0,200,R/-,9,July 3 1970,29 G 25 A 54 P
+16,Mark Smith\smithma01,ca,C,24,5-10,200,L/-,1,October 24 1977,3 G 3 A 6 P
+7,Brad Stuart\stuarbr02,ca,D,22,6-2,215,L/-,2,November 6 1979,6 G 23 A 29 P
+19,Marco Sturm\sturmma01,de,LW,23,6-0,196,L/-,4,September 8 1978,21 G 20 A 41 P
+24,Niklas Sundstrom\sundsni01,se,RW,26,6-0,191,L/-,6,June 6 1975,9 G 30 A 39 P
+20,Gary Suter\suterga01,us,D,37,6-0,215,L/-,16,June 24 1964,6 G 27 A 33 P
+17,Scott Thornton\thornsc01,ca,LW,31,6-3,220,L/-,11,January 9 1971,26 G 16 A 42 P
+29,Vesa Toskala\toskave01,fi,G,24,5-10,195,-/L,R,May 20 1977,0-0-0 0.00 GAA
+
+44,Matt Bradley\bradlma01,ca,RW,22,6-3,200,R/-,R,June 13 1978,1 G 1 A 2 P
+25,Vincent Damphousse\damphvi01,ca,C,33,6-1,200,L/-,14,December 17 1967,9 G 37 A 46 P
+2,Bobby Dollas\dollabo01,ca,D,36,6-2,212,L/-,15,January 31 1965,1 G 1 A 2 P
+39,Jeff Friesen\friesje01,ca,LW,24,6-1,205,L/-,6,August 5 1976,12 G 24 A 36 P
+21,Tony Granato\granato01,us,RW,36,5-10,185,R/-,12,July 25 1964,4 G 5 A 9 P
+22,Scott Hannan\hannasc01,ca,D,22,6-1,215,L/-,2,January 23 1979,3 G 14 A 17 P
+9,Todd Harvey\harveto01,ca,RW,25,6-0,210,R/-,6,February 17 1975,10 G 11 A 21 P
+23,Shawn Heins\heinssh01,ca,D,27,6-4,210,L/-,2,December 24 1973,3 G 4 A 7 P
+34,Miikka Kiprusoff\kiprumi01,fi,G,24,6-1,185,-/L,R,October 26 1976,2-1-0 1.95 GAA
+15-41,Alexander Korolyuk\korolal01,su,RW,25,5-9,190,L/-,3,January 15 1976,12 G 13 A 25 P
+29,Paul Kruse\krusepa01,ca,LW,30,6-1,215,L/-,10,March 15 1970,0 G 0 A 0 P
+12,Bill Lindsay\lindsbi01,us,LW,29,6-0,195,L/-,9,May 17 1971,0 G 4 A 4 P
+27,Bryan Marchment\marchbr02,ca,D,31,6-1,200,L/-,12,May 1 1969,7 G 11 A 18 P
+14,Patrick Marleau\marlepa01,ca,C,21,6-2,215,L/-,3,September 15 1979,25 G 27 A 52 P
+32,Stephane Matteau\mattest01,ca,LW,31,6-4,215,L/-,10,September 2 1969,13 G 19 A 32 P
+26,Jim Montgomery\montgji01,ca,C,31,5-10,180,R/-,3,June 30 1969,1 G 6 A 7 P
+35,Evgeni Nabokov\nabokev01,su,G,25,6-0,202,-/L,1,July 25 1975,32-21-7 2.19 GAA
+11,Owen Nolan (C)\nolanow01,gb,RW,28,6-1,214,R/-,10,February 12 1972,24 G 25 A 49 P
+5,Jeff Norton\nortoje01,us,D,35,6-2,195,L/-,13,November 25 1965,0 G 1 A 1 P
+10,Marcus Ragnarsson\ragnama01,se,D,29,6-1,215,L/-,5,August 13 1971,3 G 12 A 15 P
+40,Mike Rathje\rathjmi01,ca,D,26,6-5,235,L/-,7,May 11 1974,0 G 11 A 11 P
+18,Mike Ricci\riccimi01,ca,C,29,6-0,200,L/-,10,October 27 1971,22 G 22 A 44 P
+28,Mikael Samuelsson\samuemi01,se,RW,24,6-2,218,R/-,R,December 23 1976,0 G 0 A 0 P
+8,Teemu Selanne\selante01,fi,RW,30,6-0,200,R/-,8,July 3 1970,7 G 6 A 13 P
+31,Steve Shields\shielst01,ca,G,28,6-3,215,-/L,5,July 19 1972,6-8-5 2.48 GAA
+16,Mark Smith\smithma01,ca,C,23,5-10,200,L/-,R,October 24 1977,2 G 2 A 4 P
+7-12,Brad Stuart\stuarbr02,ca,D,21,6-2,215,L/-,1,November 6 1979,5 G 18 A 23 P
+19,Marco Sturm\sturmma01,de,LW,22,6-0,196,L/-,3,September 8 1978,14 G 18 A 32 P
+24,Niklas Sundstrom\sundsni01,se,RW,25,6-0,191,L/-,5,June 6 1975,10 G 39 A 49 P
+20,Gary Suter\suterga01,us,D,36,6-0,215,L/-,15,June 24 1964,10 G 24 A 34 P
+17,Scott Thornton\thornsc01,ca,LW,30,6-3,220,L/-,10,January 9 1971,19 G 17 A 36 P
+
+32,Murray Craven\cravemu01,ca,C,35,6-3,195,L/-,17,July 20 1964,0 G 2 A 2 P
+25,Vincent Damphousse\damphvi01,ca,C,32,6-1,200,L/-,13,December 17 1967,21 G 49 A 70 P
+39,Jeff Friesen\friesje01,ca,LW,23,6-1,205,L/-,5,August 5 1976,26 G 35 A 61 P
+21,Tony Granato\granato01,us,RW,35,5-10,185,R/-,11,July 25 1964,6 G 7 A 13 P
+43,Scott Hannan\hannasc01,ca,D,21,6-1,215,L/-,1,January 23 1979,1 G 2 A 3 P
+9,Todd Harvey\harveto01,ca,RW,24,6-0,210,R/-,5,February 17 1975,8 G 4 A 12 P
+23,Shawn Heins\heinssh01,ca,D,26,6-4,210,L/-,1,December 24 1973,0 G 0 A 0 P
+15,Alexander Korolyuk\korolal01,su,LW,24,5-9,190,L/-,2,January 15 1976,14 G 21 A 35 P
+26,Dave Lowry\lowryda01,ca,LW,34,6-1,195,L/-,14,February 14 1965,1 G 4 A 5 P
+27,Bryan Marchment\marchbr02,ca,D,30,6-1,200,L/-,11,May 1 1969,0 G 4 A 4 P
+14,Patrick Marleau\marlepa01,ca,C,20,6-2,215,L/-,2,September 15 1979,17 G 23 A 40 P
+32-37,Stephane Matteau\mattest01,ca,RW,30,6-4,215,L/-,9,September 2 1969,12 G 12 A 24 P
+33,Brantt Myhres\myhrebr01,ca,RW,25,6-3,220,R/-,4,March 18 1974,0 G 1 A 1 P
+35,Evgeni Nabokov\nabokev01,su,G,24,6-0,202,-/L,R,July 25 1975,2-2-1 2.17 GAA
+11,Owen Nolan (C)\nolanow01,gb,RW,27,6-1,214,R/-,9,February 12 1972,44 G 40 A 84 P
+5,Jeff Norton\nortoje01,us,D,34,6-2,195,L/-,12,November 25 1965,0 G 20 A 20 P
+10,Marcus Ragnarsson\ragnama01,se,D,28,6-1,215,L/-,4,August 13 1971,3 G 13 A 16 P
+40,Mike Rathje\rathjmi01,ca,D,25,6-5,235,L/-,6,May 11 1974,2 G 14 A 16 P
+18,Mike Ricci\riccimi01,ca,C,28,6-0,200,L/-,9,October 27 1971,20 G 24 A 44 P
+3,Bob Rouse\rousebo01,ca,D,35,6-2,215,R/-,16,June 18 1964,0 G 1 A 1 P
+31,Steve Shields\shielst01,ca,G,27,6-3,215,-/L,4,July 19 1972,27-30-8 2.56 GAA
+22,Ron Stern\sternro01,ca,RW,33,6-0,200,R/-,11,January 11 1967,4 G 5 A 9 P
+7,Brad Stuart\stuarbr02,ca,D,20,6-2,215,L/-,R,November 6 1979,10 G 26 A 36 P
+19,Marco Sturm\sturmma01,de,LW,21,6-0,196,L/-,2,September 8 1978,12 G 15 A 27 P
+24,Niklas Sundstrom\sundsni01,se,LW,24,6-0,191,L/-,4,June 6 1975,12 G 25 A 37 P
+20,Gary Suter\suterga01,us,D,35,6-0,215,L/-,14,June 24 1964,6 G 28 A 34 P
+12,Ron Sutter\suttero01,ca,C,36,6-0,180,R/-,17,December 2 1963,5 G 6 A 11 P
+42,Andy Sutton\suttoan01,ca,D,24,6-6,245,L/-,1,March 10 1975,1 G 1 A 2 P
+29,Mike Vernon\vernomi01,ca,G,36,5-9,180,-/L,16,February 24 1963,6-5-1 2.49 GAA
+
+13,Jamie Baker\bakerja01,ca,C,32,6-0,195,L/-,9,August 31 1966,0 G 1 A 1 P
+7,Shawn Burr\burrsh01,ca,LW,32,6-1,205,L/-,14,July 1 1966,0 G 1 A 1 P
+25,Mike Craig\craigmi01,ca,RW,27,6-1,185,R/-,7,June 6 1971,0 G 0 A 0 P
+32,Murray Craven\cravemu01,ca,LW,34,6-3,195,L/-,16,July 20 1964,4 G 10 A 14 P
+25,Vincent Damphousse\damphvi01,ca,C,31,6-1,200,L/-,12,December 17 1967,7 G 6 A 13 P
+39,Jeff Friesen\friesje01,ca,LW,22,6-1,205,L/-,4,August 5 1976,22 G 35 A 57 P
+30,Sean Gauthier\gauthse01,ca,G,27,5-11,200,-/L,R,March 28 1971,0-0-0 0.00 GAA
+21,Tony Granato\granato01,us,RW,34,5-10,185,R/-,10,July 25 1964,6 G 6 A 12 P
+36,Steve Guolla\guollst01,ca,C,25,6-0,190,L/-,2,March 15 1973,2 G 2 A 4 P
+6,Scott Hannan\hannasc01,ca,D,20,6-1,215,L/-,R,January 23 1979,0 G 2 A 2 P
+23,Shawn Heins\heinssh01,ca,D,25,6-4,210,L/-,R,December 24 1973,0 G 0 A 0 P
+16,Alex Hicks\hicksal01,ca,LW,29,6-0,190,L/-,3,September 4 1969,0 G 1 A 1 P
+2,Bill Houlder\houldbi01,ca,D,31,6-2,217,L/-,11,March 11 1967,9 G 23 A 32 P
+15-27,Alexander Korolyuk\korolal01,su,RW,23,5-9,190,L/-,1,January 15 1976,12 G 18 A 30 P
+26,Dave Lowry\lowryda01,ca,LW,33,6-1,195,L/-,13,February 14 1965,6 G 9 A 15 P
+27,Bryan Marchment\marchbr02,ca,D,29,6-1,200,L/-,10,May 1 1969,2 G 6 A 8 P
+14,Patrick Marleau\marlepa01,ca,C,19,6-2,215,L/-,1,September 15 1979,21 G 24 A 45 P
+37,Stephane Matteau\mattest01,ca,LW,29,6-4,215,L/-,8,September 2 1969,8 G 15 A 23 P
+17,Joe Murphy\murphjo01,ca,RW,31,6-0,190,L/-,12,October 16 1967,25 G 23 A 48 P
+33,Brantt Myhres\myhrebr01,ca,RW,24,6-3,220,R/-,3,March 18 1974,1 G 0 A 1 P
+9,Bernie Nicholls\nichobe01,ca,C,37,6-0,185,R/-,17,June 24 1961,0 G 2 A 2 P
+11,Owen Nolan (C)\nolanow01,gb,RW,26,6-1,214,R/-,8,February 12 1972,19 G 26 A 45 P
+5,Jeff Norton\nortoje01,us,D,33,6-2,195,L/-,11,November 25 1965,4 G 18 A 22 P
+10,Marcus Ragnarsson\ragnama01,se,D,27,6-1,215,L/-,3,August 13 1971,0 G 13 A 13 P
+40,Mike Rathje\rathjmi01,ca,D,24,6-5,235,L/-,5,May 11 1974,5 G 9 A 14 P
+18,Mike Ricci\riccimi01,ca,C,27,6-0,200,L/-,8,October 27 1971,13 G 26 A 39 P
+3,Bob Rouse\rousebo01,ca,D,34,6-2,215,R/-,15,June 18 1964,0 G 11 A 11 P
+31,Steve Shields\shielst01,ca,G,26,6-3,215,-/L,3,July 19 1972,15-11-8 2.22 GAA
+8,Jarrod Skalde\skaldja01,ca,C,27,6-0,185,L/-,6,February 26 1971,1 G 1 A 2 P
+22,Ron Stern\sternro01,ca,RW,32,6-0,200,R/-,10,January 11 1967,7 G 9 A 16 P
+19,Marco Sturm\sturmma01,de,C,20,6-0,196,L/-,1,September 8 1978,16 G 22 A 38 P
+20,Gary Suter\suterga01,us,D,34,6-0,215,L/-,13,June 24 1964,0 G 0 A 0 P
+12,Ron Sutter\suttero01,ca,C,35,6-0,180,R/-,16,December 2 1963,3 G 6 A 9 P
+42,Andy Sutton\suttoan01,ca,D,23,6-6,245,L/-,R,March 10 1975,0 G 3 A 3 P
+29,Mike Vernon\vernomi01,ca,G,35,5-9,180,-/L,15,February 24 1963,16-22-10 2.27 GAA
+4,Andrei Zyuzin\zyuzian01,su,D,21,6-1,208,L/-,1,January 21 1978,3 G 1 A 4 P
+
+34,Niklas Andersson\anderni01,se,LW,26,5-9,180,L/-,3,May 20 1971,0 G 0 A 0 P
+5,Doug Bodger\bodgedo01,ca,D,31,6-2,210,L/-,13,June 18 1966,4 G 6 A 10 P
+7,Rich Brennan\brennri01,us,D,25,6-2,200,R/-,1,November 26 1972,1 G 2 A 3 P
+28,Shawn Burr\burrsh01,ca,LW,31,6-1,205,L/-,13,July 1 1966,6 G 6 A 12 P
+22,Murray Craven\cravemu01,ca,LW,33,6-3,195,L/-,15,July 20 1964,12 G 17 A 29 P
+42,Shean Donovan\donovsh01,ca,RW,23,6-3,218,R/-,3,January 22 1975,3 G 3 A 6 P
+39,Jeff Friesen\friesje01,ca,LW,21,6-1,205,L/-,3,August 5 1976,31 G 32 A 63 P
+23,Todd Gill (C)\gillto01,ca,D,32,6-0,180,L/-,13,November 9 1965,8 G 13 A 21 P
+21,Tony Granato\granato01,us,RW,33,5-10,185,R/-,9,July 25 1964,16 G 9 A 25 P
+17,Steve Guolla\guollst01,ca,LW,24,6-0,190,L/-,1,March 15 1973,1 G 1 A 2 P
+2,Bill Houlder\houldbi01,ca,D,30,6-2,217,L/-,10,March 11 1967,7 G 25 A 32 P
+32,Kelly Hrudey\hrudeke01,ca,G,37,5-10,189,-/L,14,January 13 1961,4-16-2 2.74 GAA
+43,Al Iafrate\iafraal01,us,D,31,6-3,235,L/-,11,March 21 1966,2 G 7 A 9 P
+27-48,Alexander Korolyuk\korolal01,su,C,22,5-9,190,L/-,R,January 15 1976,2 G 3 A 5 P
+25,Viktor Kozlov\kozlovi01,su,C,22,6-4,232,R/-,3,February 14 1975,5 G 2 A 7 P
+15,Dave Lowry\lowryda01,ca,LW,32,6-1,195,L/-,12,February 14 1965,4 G 4 A 8 P
+15,John MacLean\maclejo01,ca,RW,33,6-0,200,R/-,13,November 20 1964,13 G 19 A 32 P
+27,Bryan Marchment\marchbr02,ca,D,28,6-1,200,L/-,9,May 1 1969,0 G 3 A 3 P
+14,Patrick Marleau\marlepa01,ca,C,18,6-2,215,L/-,R,September 15 1979,13 G 19 A 32 P
+37,Stephane Matteau\mattest01,ca,LW,28,6-4,215,L/-,7,September 2 1969,15 G 14 A 29 P
+33,Marty McSorley\mcsorma01,ca,D,34,6-1,235,R/-,14,May 18 1963,2 G 10 A 12 P
+17,Joe Murphy\murphjo01,ca,RW,30,6-0,190,L/-,11,October 16 1967,5 G 4 A 9 P
+30,Jason Muzzatti\muzzaja01,ca,G,27,6-2,210,-/L,4,February 3 1970,0-0-0 4.44 GAA
+62,Andrei Nazarov\nazaran01,su,RW,23,6-5,242,R/-,4,May 22 1974,1 G 1 A 2 P
+9,Bernie Nicholls\nichobe01,ca,C,36,6-0,185,R/-,16,June 24 1961,6 G 22 A 28 P
+11,Owen Nolan\nolanow01,gb,RW,25,6-1,214,R/-,7,February 12 1972,14 G 27 A 41 P
+24,Barry Potomski\potomba01,ca,LW,25,6-2,215,L/-,2,November 24 1972,0 G 1 A 1 P
+10,Marcus Ragnarsson\ragnama01,se,D,26,6-1,215,L/-,2,August 13 1971,5 G 20 A 25 P
+40,Mike Rathje\rathjmi01,ca,D,23,6-5,235,L/-,4,May 11 1974,3 G 12 A 15 P
+18,Mike Ricci\riccimi01,ca,C,26,6-0,200,L/-,7,October 27 1971,9 G 14 A 23 P
+8,Jarrod Skalde\skaldja01,ca,C,26,6-0,185,L/-,5,February 26 1971,4 G 6 A 10 P
+19,Marco Sturm\sturmma01,de,C,19,6-0,196,L/-,R,September 8 1978,10 G 20 A 30 P
+12,Ron Sutter\suttero01,ca,RW,34,6-0,180,R/-,15,December 2 1963,2 G 7 A 9 P
+5,Ken Sutton\suttoke01,ca,D,28,6-1,205,L/-,6,November 5 1969,0 G 0 A 0 P
+29,Mike Vernon\vernomi01,ca,G,34,5-9,180,-/L,14,February 24 1963,30-22-8 2.46 GAA
+16,Dody Wood\wooddo01,ca,C,25,6-0,200,L/-,4,March 18 1972,0 G 0 A 0 P
+20,Andrei Zyuzin\zyuzian01,su,D,20,6-1,208,L/-,R,January 21 1978,6 G 7 A 13 P
+
+20-30,Ed Belfour\belfoed01,ca,G,31,5-11,202,-/L,7,April 21 1965,3-9-0 3.41 GAA
+3,Doug Bodger\bodgedo01,ca,D,30,6-2,210,L/-,12,June 18 1966,1 G 15 A 16 P
+91,Jan Caloun\calouja01,cs,RW,24,5-10,190,R/-,1,December 20 1972,0 G 0 A 0 P
+22,Ulf Dahlen\dahleul01,se,LW,30,6-2,199,L/-,9,January 12 1967,8 G 11 A 19 P
+42,Shean Donovan\donovsh01,ca,RW,22,6-3,218,R/-,2,January 22 1975,9 G 6 A 15 P
+14,Bob Errey\erreybo01,ca,LW,32,5-10,185,L/-,13,September 21 1964,3 G 6 A 9 P
+36,Todd Ewen\ewento01,ca,RW,30,6-2,230,R/-,10,March 22 1966,0 G 2 A 2 P
+31,Wade Flaherty\flahewa01,ca,G,29,6-0,171,-/L,4,January 11 1968,2-4-0 5.18 GAA
+28,Iain Fraser\fraseia01,ca,C,27,5-10,175,L/-,4,August 10 1969,0 G 0 A 0 P
+39,Jeff Friesen\friesje01,ca,LW,20,6-1,205,L/-,2,August 5 1976,28 G 34 A 62 P
+23,Todd Gill (C)\gillto01,ca,D,31,6-0,180,L/-,12,November 9 1965,0 G 21 A 21 P
+21,Tony Granato\granato01,us,RW,32,5-10,185,R/-,8,July 25 1964,25 G 15 A 40 P
+17,Steve Guolla\guollst01,ca,LW,23,6-0,190,L/-,R,March 15 1973,13 G 8 A 21 P
+4,Greg Hawgood\hawgogr01,ca,D,28,5-10,190,L/-,8,August 10 1968,6 G 12 A 18 P
+32,Kelly Hrudey\hrudeke01,ca,G,36,5-10,189,-/L,13,January 13 1961,16-24-5 3.19 GAA
+19,Tim Hunter\hunteti01,ca,LW,36,6-2,202,R/-,15,September 10 1960,0 G 4 A 4 P
+43,Al Iafrate\iafraal01,us,D,30,6-3,235,L/-,10,March 21 1966,6 G 9 A 15 P
+25,Viktor Kozlov\kozlovi01,su,C,21,6-4,232,R/-,2,February 14 1975,16 G 25 A 41 P
+44,Vlastimil Kroupa\kroupvl01,cs,D,21,6-3,215,L/-,3,April 27 1975,2 G 6 A 8 P
+26,Chris Lipuma\lipumch01,us,D,25,6-0,183,L/-,4,March 23 1971,0 G 0 A 0 P
+33,Marty McSorley\mcsorma01,ca,D,33,6-1,235,R/-,13,May 18 1963,4 G 12 A 16 P
+62,Andrei Nazarov\nazaran01,su,LW,22,6-5,242,R/-,3,May 22 1974,12 G 15 A 27 P
+9,Bernie Nicholls\nichobe01,ca,C,35,6-0,185,R/-,15,June 24 1961,12 G 33 A 45 P
+11,Owen Nolan\nolanow01,gb,RW,24,6-1,214,R/-,6,February 12 1972,31 G 32 A 63 P
+7,Ville Peltonen\peltovi01,fi,LW,23,5-11,182,L/-,1,May 24 1973,2 G 3 A 5 P
+10,Marcus Ragnarsson\ragnama01,se,D,25,6-1,215,L/-,1,August 13 1971,3 G 14 A 17 P
+40,Mike Rathje\rathjmi01,ca,D,22,6-5,235,L/-,3,May 11 1974,0 G 8 A 8 P
+12,Ron Sutter\suttero01,ca,C,33,6-0,180,R/-,14,December 2 1963,5 G 7 A 12 P
+6,Michal Sykora\sykormi01,cs,D,23,6-5,225,L/-,3,July 5 1973,2 G 5 A 7 P
+18,Chris Tancill\tancich01,us,LW,28,5-10,185,R/-,6,February 7 1968,4 G 0 A 4 P
+30,Chris Terreri\terrech01,us,G,32,5-9,170,-/L,9,November 15 1964,6-10-3 2.75 GAA
+8,Darren Turcotte\turcoda01,us,C,28,6-0,182,L/-,8,March 2 1968,16 G 21 A 37 P
+14,Ray Whitney\whitnra01,ca,LW,24,5-10,180,R/-,5,May 8 1972,0 G 2 A 2 P
+5,Jason Widmer\widmeja01,ca,D,23,6-0,200,L/-,2,August 1 1973,0 G 1 A 1 P
+16,Dody Wood\wooddo01,ca,C,24,6-0,200,L/-,3,March 18 1972,3 G 2 A 5 P
+15,Alexei Yegorov\yegoral01,su,RW,21,5-11,185,L/-,1,May 21 1975,0 G 1 A 1 P
+
+13,Jamie Baker\bakerja01,ca,C,29,6-0,195,L/-,6,August 31 1966,16 G 17 A 33 P
+28,Sergei Bautin\bautise01,su,D,28,6-3,200,L/-,2,March 11 1967,0 G 0 A 0 P
+3,Doug Bodger\bodgedo01,ca,D,29,6-2,210,L/-,11,June 18 1966,4 G 19 A 23 P
+21,Dave Brown\brownda01,ca,RW,33,6-5,222,R/-,13,October 12 1962,3 G 1 A 4 P
+43,Jan Caloun\calouja01,cs,RW,23,5-10,190,R/-,R,December 20 1972,8 G 3 A 11 P
+22,Ulf Dahlen\dahleul01,se,RW,29,6-2,199,L/-,8,January 12 1967,16 G 12 A 28 P
+42,Shean Donovan\donovsh01,ca,RW,21,6-3,218,R/-,1,January 22 1975,13 G 8 A 21 P
+17,Pat Falloon\fallopa01,ca,RW,23,5-11,190,R/-,4,September 22 1972,3 G 0 A 3 P
+31,Wade Flaherty\flahewa01,ca,G,28,6-0,171,-/L,3,January 11 1968,3-12-1 4.85 GAA
+19,Jeff Friesen\friesje01,ca,LW,19,6-1,205,L/-,1,August 5 1976,15 G 31 A 46 P
+32,Arturs Irbe\irbear01,su,G,28,5-8,190,-/L,4,February 2 1967,4-12-4 4.59 GAA
+15,Craig Janney\jannecr01,us,C,28,6-1,190,L/-,8,September 26 1967,13 G 49 A 62 P
+25,Viktor Kozlov\kozlovi01,su,C,20,6-4,232,R/-,1,February 14 1975,6 G 13 A 19 P
+44,Vlastimil Kroupa\kroupvl01,cs,D,20,6-3,215,L/-,2,April 27 1975,1 G 7 A 8 P
+2,Jim Kyte\kyteji01,ca,D,31,6-5,210,L/-,12,March 21 1964,1 G 7 A 8 P
+7,Igor Larionov\larioig01,su,C,35,5-9,170,L/-,5,December 3 1960,1 G 1 A 2 P
+8,Kevin Miller\milleke02,us,LW,30,5-11,190,R/-,7,September 2 1965,22 G 20 A 42 P
+4,Jay More\moreja01,ca,D,27,6-1,210,R/-,6,January 12 1969,2 G 7 A 9 P
+23,Andrei Nazarov\nazaran01,su,RW,21,6-5,242,R/-,2,May 22 1974,7 G 7 A 14 P
+11,Owen Nolan\nolanow01,gb,RW,23,6-1,214,R/-,5,February 12 1972,29 G 32 A 61 P
+36,Jeff Odgers (C)\odgerje01,ca,LW,26,5-11,200,R/-,4,May 31 1969,12 G 4 A 16 P
+6,Sandis Ozolinsh\ozolisa01,su,D,23,6-3,215,L/-,3,August 3 1972,1 G 3 A 4 P
+41,Tom Pederson\pederto01,us,D,26,5-9,175,R/-,3,January 14 1970,1 G 4 A 5 P
+37,Ville Peltonen\peltovi01,fi,LW,22,5-11,182,L/-,R,May 24 1973,2 G 11 A 13 P
+47,Yves Racine\racinyv01,ca,D,26,6-0,205,L/-,6,February 7 1969,1 G 16 A 17 P
+33,Marcus Ragnarsson\ragnama01,se,D,24,6-1,215,L/-,R,August 13 1971,8 G 31 A 39 P
+40,Mike Rathje\rathjmi01,ca,D,21,6-5,235,L/-,2,May 11 1974,0 G 7 A 7 P
+29,Geoff Sarjeant\sarjege01,ca,G,26,5-9,180,-/L,1,November 30 1969,0-2-1 4.91 GAA
+26,Ray Sheppard\sheppra01,ca,RW,29,6-1,195,R/-,8,May 27 1966,27 G 19 A 46 P
+38,Michal Sykora\sykormi01,cs,D,22,6-5,225,L/-,2,July 5 1973,4 G 16 A 20 P
+18,Chris Tancill\tancich01,us,LW,27,5-10,185,R/-,5,February 7 1968,7 G 16 A 23 P
+30,Chris Terreri\terrech01,us,G,31,5-9,170,-/L,8,November 15 1964,13-29-1 3.70 GAA
+47,Darren Turcotte\turcoda01,us,C,27,6-0,182,L/-,7,March 2 1968,6 G 5 A 11 P
+14,Ray Whitney\whitnra01,ca,C,23,5-10,180,R/-,4,May 8 1972,17 G 24 A 41 P
+16,Dody Wood\wooddo01,ca,C,23,6-0,200,L/-,2,March 18 1972,3 G 6 A 9 P
+48,Alexei Yegorov\yegoral01,su,RW,20,5-11,185,L/-,R,May 21 1975,3 G 2 A 5 P
+
+13,Jamie Baker\bakerja01,ca,C,28,6-0,195,L/-,5,August 31 1966,7 G 4 A 11 P
+9,Viacheslav Butsayev\butsavi01,su,C,24,6-2,228,L/-,2,June 13 1970,2 G 0 A 2 P
+3,Ilja Byakin\byakiil01,su,D,31,5-9,185,L/-,1,February 2 1963,0 G 5 A 5 P
+44,Shawn Cronin\cronish01,us,D,31,6-2,225,L/-,6,August 20 1963,0 G 2 A 2 P
+22,Ulf Dahlen\dahleul01,se,RW,28,6-2,199,L/-,7,January 12 1967,11 G 23 A 34 P
+42,Shean Donovan\donovsh01,ca,RW,20,6-3,218,R/-,R,January 22 1975,0 G 0 A 0 P
+11,Gaetan Duchesne\duchega01,ca,LW,32,5-11,200,L/-,13,July 11 1962,2 G 7 A 9 P
+27,Todd Elik\elikto01,ca,C,28,6-2,195,L/-,5,April 15 1966,7 G 10 A 17 P
+12,Bob Errey (C)\erreybo01,ca,LW,30,5-10,185,L/-,11,September 21 1964,2 G 2 A 4 P
+17,Pat Falloon\fallopa01,ca,RW,22,5-11,190,R/-,3,September 22 1972,12 G 7 A 19 P
+31,Wade Flaherty\flahewa01,ca,G,27,6-0,171,-/L,2,January 11 1968,5-6-1 3.10 GAA
+39,Jeff Friesen\friesje01,ca,C,18,6-1,205,L/-,R,August 5 1976,15 G 10 A 25 P
+10,Johan Garpenlov\garpejo01,se,RW,26,6-0,185,L/-,4,March 21 1968,1 G 1 A 2 P
+32,Arturs Irbe\irbear01,su,G,27,5-8,190,-/L,3,February 2 1967,14-19-3 3.26 GAA
+15,Craig Janney\jannecr01,us,C,27,6-1,190,L/-,7,September 26 1967,5 G 15 A 20 P
+47,Viktor Kozlov\kozlovi01,su,RW,19,6-4,232,R/-,R,February 14 1975,2 G 0 A 2 P
+26,Vlastimil Kroupa\kroupvl01,cs,D,19,6-3,215,L/-,1,April 27 1975,0 G 2 A 2 P
+2,Jim Kyte\kyteji01,ca,D,30,6-5,210,L/-,11,March 21 1964,2 G 5 A 7 P
+7,Igor Larionov\larioig01,su,C,34,5-9,170,L/-,4,December 3 1960,4 G 20 A 24 P
+24,Sergei Makarov\makarse01,su,RW,36,5-11,185,L/-,5,June 19 1958,10 G 14 A 24 P
+12,Kevin Miller\milleke02,us,LW,29,5-11,190,R/-,6,September 2 1965,6 G 7 A 13 P
+4,Jay More\moreja01,ca,D,26,6-1,210,R/-,5,January 12 1969,0 G 6 A 6 P
+23,Andrei Nazarov\nazaran01,su,LW,20,6-5,242,R/-,1,May 22 1974,3 G 5 A 8 P
+8,Jeff Norton\nortoje01,us,D,29,6-2,195,L/-,7,November 25 1965,1 G 9 A 10 P
+36,Jeff Odgers (C)\odgerje01,ca,RW,25,5-11,200,R/-,3,May 31 1969,4 G 3 A 7 P
+6,Sandis Ozolinsh\ozolisa01,su,D,22,6-3,215,L/-,2,August 3 1972,9 G 16 A 25 P
+41,Tom Pederson\pederto01,us,D,25,5-9,175,R/-,2,January 14 1970,5 G 11 A 16 P
+40,Mike Rathje\rathjmi01,ca,D,20,6-5,235,L/-,1,May 11 1974,2 G 7 A 9 P
+38,Michal Sykora\sykormi01,cs,D,21,6-5,225,L/-,1,July 5 1973,0 G 4 A 4 P
+18,Chris Tancill\tancich01,us,LW,26,5-10,185,R/-,4,February 7 1968,3 G 11 A 14 P
+14,Ray Whitney\whitnra01,ca,LW,22,5-10,180,R/-,3,May 8 1972,13 G 12 A 25 P
+16,Dody Wood\wooddo01,ca,C,22,6-0,200,L/-,1,March 18 1972,1 G 1 A 2 P
+
+13,Jamie Baker\bakerja01,ca,C,27,6-0,195,L/-,4,August 31 1966,12 G 5 A 17 P
+15,David Bruce\bruceda01,ca,LW,29,5-11,190,R/-,7,October 7 1964,0 G 0 A 0 P
+9,Viacheslav Butsayev\butsavi01,su,C,23,6-2,228,L/-,1,June 13 1970,0 G 2 A 2 P
+27,Dave Capuano\capuada01,us,LW,25,6-2,190,L/-,3,July 27 1968,0 G 1 A 1 P
+33,Dale Craigwell\craigda01,ca,C,22,5-11,180,L/-,2,April 24 1971,3 G 6 A 9 P
+44,Shawn Cronin\cronish01,us,D,30,6-2,225,L/-,5,August 20 1963,0 G 2 A 2 P
+22,Ulf Dahlen\dahleul01,se,RW,27,6-2,199,L/-,6,January 12 1967,6 G 6 A 12 P
+11,Gaetan Duchesne\duchega01,ca,LW,31,5-11,200,L/-,12,July 11 1962,12 G 18 A 30 P
+27,Todd Elik\elikto01,ca,C,27,6-2,195,L/-,4,April 15 1966,25 G 41 A 66 P
+9,Gary Emmons\emmonga01,ca,C,30,6-0,185,R/-,R,December 30 1963,1 G 0 A 1 P
+12,Bob Errey (C)\erreybo01,ca,LW,29,5-10,185,L/-,10,September 21 1964,12 G 18 A 30 P
+17,Pat Falloon\fallopa01,ca,RW,21,5-11,190,R/-,2,September 22 1972,22 G 31 A 53 P
+10,Johan Garpenlov\garpejo01,se,LW,25,6-0,185,L/-,3,March 21 1968,18 G 35 A 53 P
+37,Rob Gaudreau\gaudrro01,us,RW,24,5-11,185,R/-,1,January 20 1970,15 G 20 A 35 P
+32,Arturs Irbe\irbear01,su,G,26,5-8,190,-/L,2,February 2 1967,30-28-16 2.84 GAA
+26,Vlastimil Kroupa\kroupvl01,cs,D,18,6-3,215,L/-,R,April 27 1975,1 G 3 A 4 P
+5,Mike Lalor\lalormi01,us,D,30,6-0,200,L/-,8,March 8 1963,0 G 2 A 2 P
+7,Igor Larionov\larioig01,su,C,33,5-9,170,L/-,3,December 3 1960,18 G 38 A 56 P
+24,Sergei Makarov\makarse01,su,RW,35,5-11,185,L/-,4,June 19 1958,30 G 38 A 68 P
+25,David Maley\maleyda01,us,LW,30,6-2,195,L/-,8,April 24 1963,0 G 0 A 0 P
+43,Jeff McLean\mcleaje01,ca,C,24,5-10,190,L/-,R,October 6 1969,1 G 0 A 1 P
+20,Kip Miller\milleki01,us,C,24,5-10,190,L/-,2,June 11 1969,2 G 2 A 4 P
+4,Jay More\moreja01,ca,D,25,6-1,210,R/-,4,January 12 1969,1 G 6 A 7 P
+23,Andrei Nazarov\nazaran01,su,RW,19,6-5,242,R/-,R,May 22 1974,0 G 0 A 0 P
+8,Jeff Norton\nortoje01,us,D,28,6-2,195,L/-,6,November 25 1965,7 G 33 A 40 P
+36,Jeff Odgers\odgerje01,ca,LW,24,5-11,200,R/-,2,May 31 1969,13 G 8 A 21 P
+50,Jaroslav Otevrel\otevrja01,cs,C,25,6-3,215,L/-,1,September 16 1968,3 G 2 A 5 P
+6,Sandis Ozolinsh\ozolisa01,su,D,21,6-3,215,L/-,1,August 3 1972,26 G 38 A 64 P
+41,Tom Pederson\pederto01,us,D,24,5-9,175,R/-,1,January 14 1970,6 G 19 A 25 P
+40,Mike Rathje\rathjmi01,ca,D,19,6-5,235,L/-,R,May 11 1974,1 G 9 A 10 P
+47,Mike Sullivan\sullimi01,us,LW,25,6-2,204,L/-,2,February 27 1968,2 G 2 A 4 P
+38,Michal Sykora\sykormi01,cs,D,20,6-5,225,L/-,R,July 5 1973,1 G 4 A 5 P
+29,Jimmy Waite\waiteji01,ca,G,24,6-1,180,-/L,5,April 15 1969,3-7-0 4.30 GAA
+14,Ray Whitney\whitnra01,ca,C,21,5-10,180,R/-,2,May 8 1972,14 G 26 A 40 P
+2,Rob Zettler\zettlro01,ca,D,25,6-3,200,L/-,5,March 8 1968,0 G 3 A 3 P
+19,Doug Zmolek\zmoledo01,us,D,23,6-2,222,L/-,1,November 3 1970,0 G 4 A 4 P
+
+21,Peter Ahola\aholape01,fi,D,24,6-3,205,L/-,1,May 14 1968,2 G 3 A 5 P
+26,Robin Bawa\bawaro01,ca,RW,26,6-2,214,R/-,2,March 26 1966,5 G 0 A 5 P
+40,Mark Beaufait\beaufma01,us,C,22,5-9,170,R/-,R,May 13 1970,1 G 0 A 1 P
+16,Perry Berezan\berezpe01,ca,RW,28,6-2,190,R/-,8,December 5 1964,3 G 4 A 7 P
+15,David Bruce\bruceda01,ca,RW,28,5-11,190,R/-,6,October 7 1964,2 G 3 A 5 P
+22,Lyndon Byers\byersly01,ca,RW,28,6-1,200,R/-,9,February 29 1964,4 G 1 A 5 P
+20,John Carter\cartejo01,us,LW,29,5-10,181,L/-,7,May 3 1963,7 G 9 A 16 P
+11,Yvon Corriveau\corriyv01,ca,RW,25,6-1,195,L/-,7,February 8 1967,3 G 7 A 10 P
+39,Ed Courtenay\courted01,ca,C,24,6-4,215,R/-,1,February 2 1968,7 G 13 A 20 P
+33,Dale Craigwell\craigda01,ca,C,21,5-11,180,L/-,1,April 24 1971,3 G 1 A 4 P
+8,Larry DePalma\depalla01,us,LW,27,6-0,195,L/-,5,October 27 1965,2 G 6 A 8 P
+12,Dean Evason\evasode01,ca,C,28,5-10,180,R/-,9,August 22 1964,12 G 19 A 31 P
+17,Pat Falloon\fallopa01,ca,RW,20,5-11,190,R/-,1,September 22 1972,14 G 14 A 28 P
+31,Wade Flaherty\flahewa01,ca,G,25,6-0,171,-/L,1,January 11 1968,0-1-0 5.00 GAA
+10,Johan Garpenlov\garpejo01,se,LW,24,6-0,185,L/-,2,March 21 1968,22 G 44 A 66 P
+37,Rob Gaudreau\gaudrro01,us,RW,23,5-11,185,R/-,R,January 20 1970,23 G 20 A 43 P
+30,Jeff Hackett\hackeje01,ca,G,24,6-1,198,-/L,3,June 1 1968,2-30-1 5.28 GAA
+1,Brian Hayward\haywabr01,ca,G,32,5-10,180,-/L,10,June 25 1960,2-14-1 5.55 GAA
+32,Arturs Irbe\irbear01,su,G,25,5-8,190,-/L,1,February 2 1967,7-26-0 4.11 GAA
+11,Kelly Kisio\kisioke01,ca,C,33,5-10,185,R/-,10,September 18 1959,26 G 52 A 78 P
+29,Dean Kolstad\kolstde01,ca,D,24,6-6,220,L/-,2,June 16 1968,0 G 2 A 2 P
+7,Mikhail Kravets\kravemi01,su,RW,29,5-10,195,L/-,1,November 12 1963,0 G 0 A 0 P
+9,Brian Lawton\lawtobr01,us,LW,27,6-0,180,L/-,8,June 29 1965,2 G 8 A 10 P
+38,Pat MacLeod\maclepa02,ca,D,23,5-11,190,L/-,2,June 15 1969,0 G 1 A 1 P
+25,David Maley\maleyda01,us,LW,29,6-2,195,L/-,7,April 24 1963,1 G 6 A 7 P
+27,Hubie McDonough\mcdonhu01,us,C,29,5-9,180,L/-,4,July 8 1963,6 G 2 A 8 P
+4,Jay More\moreja01,ca,D,24,6-1,210,R/-,3,January 12 1969,5 G 6 A 11 P
+9,Jon Morris\morrijo02,us,C,26,6-0,175,R/-,4,May 6 1966,0 G 3 A 3 P
+36,Jeff Odgers\odgerje01,ca,RW,23,5-11,200,R/-,1,May 31 1969,12 G 15 A 27 P
+42,Jaroslav Otevrel\otevrja01,cs,C,24,6-3,215,L/-,R,September 16 1968,0 G 2 A 2 P
+6,Sandis Ozolinsh\ozolisa01,su,D,20,6-3,215,L/-,R,August 3 1972,7 G 16 A 23 P
+18,Mark Pederson\pederma01,ca,LW,25,6-2,196,L/-,3,January 14 1968,7 G 3 A 10 P
+41,Tom Pederson\pederto01,us,D,23,5-9,175,R/-,R,January 14 1970,7 G 13 A 20 P
+44,Michel Picard\picarmi01,ca,LW,23,5-11,190,L/-,2,November 7 1969,4 G 0 A 4 P
+28,Jean-Francois Quintin\quintje01,ca,C,23,6-0,187,L/-,1,May 28 1969,2 G 5 A 7 P
+45,Claudio Scremin\scremcl01,ca,D,24,6-2,205,R/-,1,May 28 1968,0 G 1 A 1 P
+26,Petri Skriko\skrikpe01,fi,LW,30,5-10,174,L/-,8,March 13 1962,4 G 3 A 7 P
+14,Dave Snuggerud\snuggda01,us,RW,26,6-0,190,L/-,3,June 20 1966,4 G 5 A 9 P
+47,Mike Sullivan\sullimi01,us,C,24,6-2,204,L/-,1,February 27 1968,6 G 8 A 14 P
+14,Ray Whitney\whitnra01,ca,C,20,5-10,180,R/-,1,May 8 1972,4 G 6 A 10 P
+5,Neil Wilkinson\wilkine01,ca,D,25,6-3,194,R/-,3,August 15 1967,1 G 7 A 8 P
+3,David Williams\willida01,us,D,25,6-2,195,R/-,1,August 25 1967,1 G 11 A 12 P
+24,Doug Wilson (C)\wilsodo01,ca,D,35,6-1,187,L/-,15,July 5 1957,3 G 17 A 20 P
+45,Dody Wood\wooddo01,ca,C,20,6-0,200,L/-,R,March 18 1972,1 G 1 A 2 P
+2,Rob Zettler\zettlro01,ca,D,24,6-3,200,L/-,4,March 8 1968,0 G 7 A 7 P
+19,Doug Zmolek\zmoledo01,us,D,22,6-2,222,L/-,R,November 3 1970,5 G 10 A 15 P
+
+27,Perry Anderson\anderpe01,ca,LW,30,6-1,225,L/-,9,October 14 1961,4 G 8 A 12 P
+37,Don Barber\barbedo01,ca,LW,27,6-2,205,L/-,3,December 2 1964,1 G 3 A 4 P
+16,Perry Berezan\berezpe01,ca,C,27,6-2,190,R/-,7,December 5 1964,12 G 7 A 19 P
+14,Steve Bozek\bozekst01,ca,LW,31,5-11,180,L/-,10,November 26 1960,8 G 8 A 16 P
+15,David Bruce\bruceda01,ca,RW,27,5-11,190,R/-,5,October 7 1964,22 G 16 A 38 P
+20,John Carter\cartejo01,us,LW,28,5-10,181,L/-,6,May 3 1963,0 G 0 A 0 P
+34,Michael Colman\colmami01,us,D,23,6-3,225,R/-,R,August 4 1968,0 G 1 A 1 P
+39,Ed Courtenay\courted01,ca,RW,23,6-4,215,R/-,R,February 2 1968,0 G 0 A 0 P
+21,Craig Coxe\coxecr01,us,C,28,6-4,210,L/-,7,January 21 1964,2 G 0 A 2 P
+33,Dale Craigwell\craigda01,ca,C,20,5-11,180,L/-,R,April 24 1971,5 G 11 A 16 P
+44,Kevin Evans\evanske01,ca,LW,26,5-9,185,L/-,1,July 10 1965,0 G 1 A 1 P
+8,Dean Evason\evasode01,ca,C,27,5-10,180,R/-,8,August 22 1964,11 G 15 A 26 P
+17,Pat Falloon\fallopa01,ca,RW,19,5-11,190,R/-,R,September 22 1972,25 G 34 A 59 P
+22,Paul Fenton\fentopa01,us,LW,32,5-11,180,L/-,7,December 22 1959,11 G 4 A 15 P
+31,Wade Flaherty\flahewa01,ca,G,24,6-0,171,-/L,R,January 11 1968,0-3-0 4.38 GAA
+23,Link Gaetz\gaetzli01,ca,D,23,6-3,215,L/-,2,October 2 1968,6 G 6 A 12 P
+10,Johan Garpenlov\garpejo01,se,LW,23,6-0,185,L/-,1,March 21 1968,5 G 6 A 11 P
+30,Jeff Hackett\hackeje01,ca,G,23,6-1,198,-/L,2,June 1 1968,11-27-1 3.84 GAA
+6,Ken Hammond\hammoke01,ca,D,28,6-1,190,L/-,6,August 22 1963,5 G 10 A 15 P
+1,Brian Hayward\haywabr01,ca,G,31,5-10,180,-/L,9,June 25 1960,1-4-0 4.92 GAA
+10,Tony Hrkac\hrkacto01,ca,C,25,5-10,190,L/-,4,July 7 1966,2 G 10 A 12 P
+32,Arturs Irbe\irbear01,su,G,24,5-8,190,-/L,R,February 2 1967,2-6-3 4.47 GAA
+11,Kelly Kisio\kisioke01,ca,C,32,5-10,185,R/-,9,September 18 1959,11 G 26 A 37 P
+40,Mikhail Kravets\kravemi01,su,LW,28,5-10,195,L/-,R,November 12 1963,0 G 0 A 0 P
+26,Peter Lappin\lappipe01,us,RW,26,5-11,180,R/-,1,December 31 1965,0 G 0 A 0 P
+9,Brian Lawton\lawtobr01,us,LW,26,6-0,180,L/-,7,June 29 1965,15 G 22 A 37 P
+13,Rick Lessard\lessari01,ca,D,24,6-2,206,L/-,2,January 9 1968,0 G 2 A 2 P
+38,Pat MacLeod\maclepa02,ca,D,22,5-11,190,L/-,1,June 15 1969,5 G 11 A 16 P
+25,Bob McGill\mcgilbo01,ca,D,29,6-1,193,R/-,10,April 27 1962,3 G 1 A 4 P
+22,Mike McHugh\mchugmi01,us,LW,26,5-10,190,L/-,3,August 16 1965,1 G 0 A 1 P
+4,Jay More\moreja01,ca,D,23,6-1,210,R/-,2,January 12 1969,4 G 13 A 17 P
+19,Brian Mullen\mullebr01,us,RW,29,5-10,180,L/-,9,March 16 1962,18 G 28 A 46 P
+35,Jarmo Myllys\myllyja01,fi,G,26,5-8,160,-/L,3,May 29 1965,3-18-1 5.02 GAA
+36,Jeff Odgers\odgerje01,ca,RW,22,5-11,200,R/-,R,May 31 1969,7 G 4 A 11 P
+16,Mark Pavelich\pavelma02,us,C,33,5-8,170,R/-,6,February 28 1958,0 G 1 A 1 P
+7,Wayne Presley\preslwa01,us,RW,26,5-11,195,R/-,7,March 23 1965,8 G 14 A 22 P
+28,Jean-Francois Quintin\quintje01,ca,C,22,6-0,187,L/-,R,May 28 1969,3 G 0 A 3 P
+45,Claudio Scremin\scremcl01,ca,D,23,6-2,205,R/-,R,May 28 1968,0 G 0 A 0 P
+18,Dave Snuggerud\snuggda01,us,LW,25,6-0,190,L/-,2,June 20 1966,0 G 1 A 1 P
+47,Mike Sullivan\sullimi01,us,C,23,6-2,204,L/-,R,February 27 1968,8 G 11 A 19 P
+43,Ray Whitney\whitnra01,ca,C,19,5-10,180,R/-,R,May 8 1972,0 G 3 A 3 P
+5-45,Neil Wilkinson\wilkine01,ca,D,24,6-3,194,R/-,2,August 15 1967,4 G 15 A 19 P
+3-41,David Williams\willida01,us,D,24,6-2,195,R/-,R,August 25 1967,3 G 25 A 28 P
+24,Doug Wilson (C)\wilsodo01,ca,D,34,6-1,187,L/-,14,July 5 1957,9 G 19 A 28 P
+2,Rob Zettler\zettlro01,ca,D,23,6-3,200,L/-,3,March 8 1968,1 G 8 A 9 P
