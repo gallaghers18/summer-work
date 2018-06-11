@@ -1,0 +1,12 @@
+# IntelliJ
+out/
+
+#Compiled Python files
+*.pyc
+
+#Java class
+*.class
+
+*.DS_Store
+
+._*
